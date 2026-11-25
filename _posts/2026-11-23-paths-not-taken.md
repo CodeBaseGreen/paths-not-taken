@@ -6,7 +6,7 @@ tags: [counterfactuals, irreversibility, human-machine, curiosity, abstraction, 
 description: Counterfactuals, irreversibility and structure in learning systems built from humans and machines. The central essay of this archive, with a panel discussion.
 image:
   path: /assets/img/posts/paths.jpg
-  alt: Where reversibility sits in a combined human and machine system
+  alt: "Where reversibility sits in a combined human and machine system"
 ---
 
 The central essay of this archive (32 pages), with a panel discussion of it.

@@ -5,7 +5,7 @@ tags: [roadmap, counterfactuals, curiosity, abstraction, simulation, panel]
 description: Which parts matter most, which are critical, what can be swapped for something simpler, and in what order, for one person working at small scale.
 image:
   path: /assets/img/posts/forward.jpg
-  alt: The research roadmap, stage by stage
+  alt: "The research roadmap, stage by stage"
 ---
 
 The practical follow-up to the essays (23 pages), with a panel discussion. It asks what should actually be built,

@@ -5,7 +5,7 @@ tags: [quantum, counterfactuals, causality, free-energy]
 description: Could quantum computing make the intractable parts of active inference, causal discovery and counterfactual learning tractable? Partly, and mostly by a square root.
 image:
   path: /assets/img/posts/qubits.jpg
-  alt: Twin-network counterfactual circuit: noise qubits shared between the factual and counterfactual worlds
+  alt: "Twin-network counterfactual circuit: noise qubits shared between the factual and counterfactual worlds"
 ---
 
 A working paper (14 pages) asking a blunt question: could quantum computers make the expensive parts of

@@ -5,7 +5,7 @@ tags: [led-creatures, simulation, counterfactuals, panel]
 description: Curious light creatures that wander LED strips and react to music. An art piece that doubles as a fully replayable world for counterfactual experiments.
 image:
   path: /assets/img/posts/led.jpg
-  alt: The layers of the LED creatures system, from genes to light
+  alt: "The layers of the LED creatures system, from genes to light"
 ---
 
 The art project that gives the research a world to live in.
