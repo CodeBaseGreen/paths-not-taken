@@ -13,3 +13,5 @@ not peer-reviewed work. Each post links the full PDF, and some include an audio 
 
 Some posts discuss an art project: LED creatures that react to music. It's a research playground. No code,
 hardware designs or repositories are offered, and there are no comments. This site is a record, not a project.
+
+<p style="margin-top:2rem;font-size:.85rem;color:var(--text-muted-color)">Allan Edwards &middot; allan@augmentedintellect.com</p>
