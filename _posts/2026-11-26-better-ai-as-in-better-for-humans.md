@@ -1,6 +1,6 @@
 ---
 title: "Better AI, as in Better for Humans"
-date: 2026-11-26 07:00:00 +1300
+date: 2026-11-26 07:10:00 +1300
 tags: [phase-2, dharma, counterfactuals, abstraction, panel]
 description: The main Phase 2 paper. Why the spine was needed, insight as seeing one level down, and AI as a layer between people.
 image:

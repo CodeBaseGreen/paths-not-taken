@@ -1,6 +1,6 @@
 ---
 title: "Network to Dharma: a Deep Dive"
-date: 2026-11-26 07:05:00 +1300
+date: 2026-11-26 07:00:00 +1300
 tags: [phase-2, dharma, abstraction, creatures, panel]
 description: The companion to Better AI. The correspondence between the early discourses and a counterfactual network, in Pali.
 image:
