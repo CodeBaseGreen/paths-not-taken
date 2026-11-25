@@ -353,6 +353,23 @@
   cited_in:
   - copies-lineages-and-noise
   sort: boerlin 2013 predictive coding of dynamical variables
+- key: bowers2023top
+  authors:
+  - Bowers, M.
+  - Olausson, T. X.
+  - Wong, L.
+  - Grand, G.
+  - Tenenbaum, J. B.
+  - Ellis, K.
+  - Solar-Lezama, A.
+  year: 2023
+  title: Top-down synthesis for library learning
+  venue: Proceedings of the ACM on Programming Languages 7 (POPL)
+  kind: article
+  topic: programs
+  cited_in:
+  - program-fragments-as-compression
+  sort: bowers 2023 top-down synthesis for library learning
 - key: boyer1998tight
   authors:
   - Boyer, M.
@@ -497,6 +514,22 @@
   cited_in:
   - copies-lineages-and-noise
   sort: buzsaki 2014 the log-dynamic brain
+- key: cao2023babble
+  authors:
+  - Cao, D.
+  - Kunkel, R.
+  - Nandi, C.
+  - Willsey, M.
+  - Tatlock, Z.
+  - Polikarpova, N.
+  year: 2023
+  title: 'babble: learning better abstractions with e-graphs and anti-unification'
+  venue: Proceedings of the ACM on Programming Languages 7 (POPL), 396–424
+  kind: article
+  topic: programs
+  cited_in:
+  - program-fragments-as-compression
+  sort: 'cao 2023 babble: learning better abstractions wit'
 - key: cerezo2025does
   authors:
   - Cerezo, M.
@@ -588,6 +621,18 @@
   cited_in:
   - paths-not-taken
   sort: constantinescu 2016 organizing conceptual knowledge in human
+- key: cook1994substructure
+  authors:
+  - Cook, D. J.
+  - Holder, L. B.
+  year: 1994
+  title: Substructure discovery using minimum description length and background knowledge
+  venue: Journal of Artificial Intelligence Research 1, 231–255
+  kind: article
+  topic: programs
+  cited_in:
+  - program-fragments-as-compression
+  sort: cook 1994 substructure discovery using minimum des
 - key: correa2024counterfactual
   authors:
   - Correa, J. D.
@@ -915,6 +960,7 @@
   - paths-not-taken
   - thirty-papers-behind-the-discussion
   - the-research-path-forward
+  - program-fragments-as-compression
   sort: 'ellis 2021 dreamcoder: bootstrapping inductive prog'
 - key: engels2024not
   authors:
@@ -1272,6 +1318,34 @@
   cited_in:
   - interference-not-parallelism
   sort: goldreich 1989 a hard-core predicate for all one-way fu
+- key: grand2024lilo
+  authors:
+  - Grand, G.
+  - Wong, L.
+  - Bowers, M.
+  - Olausson, T. X.
+  - Liu, M.
+  - Tenenbaum, J. B.
+  - Andreas, J.
+  year: 2024
+  title: 'LILO: learning interpretable libraries by compressing and documenting code'
+  venue: ICLR
+  kind: inproceedings
+  topic: programs
+  cited_in:
+  - program-fragments-as-compression
+  sort: 'grand 2024 lilo: learning interpretable libraries b'
+- key: grunwald2007minimum
+  authors:
+  - Grünwald, P. D.
+  year: 2007
+  title: The Minimum Description Length Principle
+  venue: MIT Press
+  kind: book
+  topic: curiosity
+  cited_in:
+  - program-fragments-as-compression
+  sort: grunwald 2007 the minimum description length principle
 - key: gu2012quantum
   authors:
   - Gu, M.
@@ -1629,6 +1703,7 @@
   - paths-not-taken
   - opening-the-markov-blanket
   - thirty-papers-behind-the-discussion
+  - program-fragments-as-compression
   sort: 'kashtan 2005 spontaneous evolution of modularity and '
 - key: kimura1968evolutionary
   authors:
@@ -2046,6 +2121,18 @@
   - opening-the-markov-blanket
   - the-research-path-forward
   sort: 'ng 2000 pegasus: a policy search method for larg'
+- key: novikov2025alphaevolve
+  authors:
+  - Novikov, A.
+  - others
+  year: 2025
+  title: 'AlphaEvolve: a coding agent for scientific and algorithmic discovery'
+  venue: arXiv:2506.13131
+  kind: preprint
+  topic: programs
+  cited_in:
+  - program-fragments-as-compression
+  sort: 'novikov 2025 alphaevolve: a coding agent for scientif'
 - key: ogorman2015bayesian
   authors:
   - O'Gorman, B.
@@ -2069,6 +2156,7 @@
   topic: programs
   cited_in:
   - the-research-path-forward
+  - program-fragments-as-compression
   sort: o'neill 2001 grammatical evolution
 - key: odlingsmee2003niche
   authors:
@@ -2289,6 +2377,29 @@
   cited_in:
   - qubits-for-causal-compression
   sort: ried 2015 a quantum advantage for inferring causal
+- key: rissanen1978modeling
+  authors:
+  - Rissanen, J.
+  year: 1978
+  title: Modeling by shortest data description
+  venue: Automatica 14, 465–471
+  kind: article
+  topic: curiosity
+  cited_in:
+  - program-fragments-as-compression
+  sort: rissanen 1978 modeling by shortest data description
+- key: romeraparedes2024mathematical
+  authors:
+  - Romera-Paredes, B.
+  - others
+  year: 2024
+  title: Mathematical discoveries from program search with large language models
+  venue: Nature 625, 468–475
+  kind: article
+  topic: programs
+  cited_in:
+  - program-fragments-as-compression
+  sort: romera-paredes 2024 mathematical discoveries from program se
 - key: rubenstein2017causal
   authors:
   - Rubenstein, P. K.
@@ -2381,6 +2492,17 @@
   cited_in:
   - paths-not-taken
   sort: 'schlag 2019 enhancing the transformer with explicit '
+- key: schmidhuber2004optimal
+  authors:
+  - Schmidhuber, J.
+  year: 2004
+  title: Optimal ordered problem solver
+  venue: Machine Learning 54, 211–254
+  kind: article
+  topic: programs
+  cited_in:
+  - program-fragments-as-compression
+  sort: schmidhuber 2004 optimal ordered problem solver
 - key: schmidhuber2009driven
   authors:
   - Schmidhuber, J.
@@ -2779,6 +2901,22 @@
   cited_in:
   - copies-lineages-and-noise
   sort: williams 1992 simple statistical gradient-following al
+- key: willsey2021egg
+  authors:
+  - Willsey, M.
+  - Nandi, C.
+  - Wang, Y. R.
+  - Flatt, O.
+  - Tatlock, Z.
+  - Panchekha, P.
+  year: 2021
+  title: 'egg: fast and extensible equality saturation'
+  venue: Proceedings of the ACM on Programming Languages 5 (POPL)
+  kind: article
+  topic: programs
+  cited_in:
+  - program-fragments-as-compression
+  sort: 'willsey 2021 egg: fast and extensible equality satura'
 - key: wolfram2002new
   authors:
   - Wolfram, S.
@@ -2862,6 +3000,7 @@
   - paths-not-taken
   - copies-lineages-and-noise
   - thirty-papers-behind-the-discussion
+  - program-fragments-as-compression
   sort: zador 2019 a critique of pure learning and what art
 - key: zardini2022reconstructing
   authors:

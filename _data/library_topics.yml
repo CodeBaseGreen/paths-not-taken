@@ -9,7 +9,7 @@
   blurb: Friston's framework and its critics.
 - id: curiosity
   name: Curiosity, compression and exploration
-  blurb: Learning driven by progress, novelty and return.
+  blurb: Learning driven by progress and novelty, and how to measure compression.
 - id: programs
   name: Programs and program synthesis
   blurb: Programs as models, libraries of reusable parts, and reasoning about code.
