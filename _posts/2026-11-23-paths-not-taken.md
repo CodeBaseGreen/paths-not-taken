@@ -1,7 +1,6 @@
 ---
 title: "Paths Not Taken"
 date: 2026-11-23 07:27:00 +1300
-pin: true
 tags: [counterfactuals, irreversibility, human-machine, curiosity, abstraction, panel]
 description: Counterfactuals, irreversibility and structure in learning systems built from humans and machines. The central essay of this archive, with a panel discussion.
 image:
