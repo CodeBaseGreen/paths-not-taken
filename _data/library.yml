@@ -111,6 +111,7 @@
   cited_in: &id001
   - better-ai-as-in-better-for-humans
   - network-to-dharma
+  - contemplative-ai
   sort: 'analayo 2003 satipatthana: the direct path to realiza'
 - key: anschuetz2023interpretable
   authors:
@@ -202,6 +203,18 @@
   cited_in:
   - interference-not-parallelism
   sort: babbush 2023 exponential quantum speedup in simulatin
+- key: bai2022constitutional
+  authors:
+  - Bai, Y.
+  - others
+  year: 2022
+  title: 'Constitutional AI: harmlessness from AI feedback'
+  venue: arXiv:2212.08073
+  kind: preprint
+  topic: alignment
+  cited_in:
+  - contemplative-ai
+  sort: 'bai 2022 constitutional ai: harmlessness from ai '
 - key: balke1994probabilistic
   authors:
   - Balke, A.
@@ -302,6 +315,20 @@
   - paths-not-taken
   - opening-the-markov-blanket
   sort: beckers 2019 approximate causal abstraction
+- key: behrens2007learning
+  authors:
+  - Behrens, T. E.
+  - Woolrich, M. W.
+  - Walton, M. E.
+  - Rushworth, M. F.
+  year: 2007
+  title: Learning the value of information in an uncertain world
+  venue: Nature Neuroscience 10, 1214–1221
+  kind: article
+  topic: brains
+  cited_in:
+  - contemplative-ai
+  sort: 'behrens 2007 learning the value of information in an '
 - key: behrens2018cognitive
   authors:
   - Behrens, T. E. J.
@@ -352,6 +379,18 @@
   cited_in:
   - interference-not-parallelism
   sort: bennett 1997 strengths and weaknesses of quantum comp
+- key: binder2024looking
+  authors:
+  - Binder, F. J.
+  - others
+  year: 2024
+  title: 'Looking inward: language models can learn about themselves by introspection'
+  venue: arXiv:2410.13787
+  kind: preprint
+  topic: interpretability
+  cited_in:
+  - contemplative-ai
+  sort: 'binder 2024 looking inward: language models can lear'
 - key: bodhi2005words
   authors:
   - Bodhi, Bhikkhu
@@ -553,6 +592,21 @@
   cited_in:
   - program-fragments-as-compression
   sort: 'cao 2023 babble: learning better abstractions wit'
+- key: carauleanu2024selfother
+  authors:
+  - Carauleanu, M.
+  - Vaiana, M.
+  - Rosenblatt, J.
+  - Berg, C.
+  - de Lucena, D. S.
+  year: 2024
+  title: Towards safe and honest AI agents with neural self-other overlap
+  venue: arXiv:2412.16325
+  kind: preprint
+  topic: alignment
+  cited_in:
+  - contemplative-ai
+  sort: carauleanu 2024 towards safe and honest ai agents with n
 - key: cerezo2025does
   authors:
   - Cerezo, M.
@@ -884,6 +938,19 @@
   cited_in:
   - qubits-for-causal-compression
   sort: dunjko 2017 exponential improvements for quantum-acc
+- key: dunne2019mindful
+  authors:
+  - Dunne, J. D.
+  - Thompson, E.
+  - Schooler, J.
+  year: 2019
+  title: 'Mindful meta-awareness: sustained and non-propositional'
+  venue: Current Opinion in Psychology 28, 307–311
+  kind: article
+  topic: contemplative
+  cited_in:
+  - contemplative-ai
+  sort: 'dunne 2019 mindful meta-awareness: sustained and no'
 - key: durr1996quantum
   authors:
   - Dürr, C.
@@ -1305,6 +1372,18 @@
   - interference-not-parallelism
   - better-ai-as-in-better-for-humans
   sort: 'geiger 2025 causal abstraction: a theoretical founda'
+- key: ghosh2025ailuminate
+  authors:
+  - Ghosh, S.
+  - others
+  year: 2025
+  title: 'AILuminate: introducing v1.0 of the AI Risk and Reliability Benchmark from MLCommons'
+  venue: arXiv:2503.05731
+  kind: preprint
+  topic: alignment
+  cited_in:
+  - contemplative-ai
+  sort: 'ghosh 2025 ailuminate: introducing v1.0 of the ai r'
 - key: gilliganlee2025quantum
   authors:
   - Gilligan-Lee, C. M.
@@ -1434,6 +1513,18 @@
   cited_in:
   - interference-not-parallelism
   sort: gu 2012 quantum mechanics can reduce the complex
+- key: guan2024deliberative
+  authors:
+  - Guan, L.
+  - others
+  year: 2024
+  title: 'Deliberative alignment: reasoning enables safer language models'
+  venue: preprint
+  kind: preprint
+  topic: alignment
+  cited_in:
+  - contemplative-ai
+  sort: 'guan 2024 deliberative alignment: reasoning enable'
 - key: guo2024quantum
   authors:
   - Guo, N.
@@ -1446,6 +1537,18 @@
   cited_in:
   - interference-not-parallelism
   sort: guo 2024 quantum linear algebra is all you need f
+- key: guo2025deepseek
+  authors:
+  - Guo, D.
+  - others
+  year: 2025
+  title: 'DeepSeek-R1: incentivizing reasoning capability in LLMs via reinforcement learning'
+  venue: arXiv:2501.12948
+  kind: preprint
+  topic: interpretability
+  cited_in:
+  - contemplative-ai
+  sort: 'guo 2025 deepseek-r1: incentivizing reasoning cap'
 - key: gupta2015deep
   authors:
   - Gupta, S.
@@ -1655,6 +1758,21 @@
   cited_in:
   - interference-not-parallelism
   sort: huang 2021 power of data in quantum machine learnin
+- key: hubinger2019risks
+  authors:
+  - Hubinger, E.
+  - van Merwijk, C.
+  - Mikulik, V.
+  - Skalse, J.
+  - Garrabrant, S.
+  year: 2019
+  title: Risks from learned optimization in advanced machine learning systems
+  venue: arXiv:1906.01820
+  kind: preprint
+  topic: alignment
+  cited_in:
+  - contemplative-ai
+  sort: hubinger 2019 risks from learned optimization in advan
 - key: hyperes2026
   authors: []
   year: 2026
@@ -1915,6 +2033,30 @@
   cited_in:
   - copies-lineages-and-noise
   sort: lande 1979 quantitative genetic analysis of multiva
+- key: laukkonen2021many
+  authors:
+  - Laukkonen, R. E.
+  - Slagter, H. A.
+  year: 2021
+  title: 'From many to (n)one: meditation and the plasticity of the predictive mind'
+  venue: Neuroscience & Biobehavioral Reviews 128, 199–217
+  kind: article
+  topic: free-energy
+  cited_in:
+  - contemplative-ai
+  sort: 'laukkonen 2021 from many to (n)one: meditation and the '
+- key: laukkonen2024beautiful
+  authors:
+  - Laukkonen, R. E.
+  - Chandaria, S.
+  year: 2024
+  title: 'A beautiful loop: an active inference theory of consciousness'
+  venue: OSF Preprints
+  kind: preprint
+  topic: free-energy
+  cited_in:
+  - contemplative-ai
+  sort: 'laukkonen 2024 a beautiful loop: an active inference th'
 - key: laukkonen2025contemplative
   authors:
   - Laukkonen, R.
@@ -1980,6 +2122,18 @@
   cited_in:
   - opening-the-markov-blanket
   sort: lehman 2020 the surprising creativity of digital evo
+- key: limanowski2020attenuating
+  authors:
+  - Limanowski, J.
+  - Friston, K.
+  year: 2020
+  title: 'Attenuating oneself: an active inference perspective on ''selfless'' experiences'
+  venue: Philosophy and the Mind Sciences 1(I), 1–16
+  kind: article
+  topic: free-energy
+  cited_in:
+  - contemplative-ai
+  sort: 'limanowski 2020 attenuating oneself: an active inference'
 - key: lindsey2025biology
   authors:
   - Lindsey, J.
@@ -2103,6 +2257,19 @@
   cited_in:
   - the-ruliad-and-the-spine
   sort: marletto 2021 the science of can and can't
+- key: matsumura2022empathic
+  authors:
+  - Matsumura, T.
+  - Esaki, K.
+  - Mizuno, H.
+  year: 0
+  title: 'Empathic active inference: active inference with empathy mechanism for socially behaved artificial agent'
+  venue: Artificial Life Conference Proceedings 34, 18
+  kind: inproceedings
+  topic: free-energy
+  cited_in:
+  - contemplative-ai
+  sort: 'matsumura 0 empathic active inference: active infere'
 - key: mcmahan2017communication
   authors:
   - McMahan, B.
@@ -2630,6 +2797,22 @@
   cited_in:
   - network-to-dharma
   sort: 'salzberg 1995 lovingkindness: the revolutionary art of'
+- key: sandvedsmith2021towards
+  authors:
+  - Sandved-Smith, L.
+  - Hesp, C.
+  - Mattout, J.
+  - Friston, K.
+  - Lutz, A.
+  - Ramstead, M. J. D.
+  year: 2021
+  title: 'Towards a computational phenomenology of mental action: modelling meta-awareness and attentional control with deep parametric active inference'
+  venue: Neuroscience of Consciousness 2021(1), niab018
+  kind: article
+  topic: free-energy
+  cited_in:
+  - contemplative-ai
+  sort: sandved-smith 2021 towards a computational phenomenology of
 - key: schlag2019enhancing
   authors:
   - Schlag, I.
@@ -2735,6 +2918,18 @@
   cited_in:
   - opening-the-markov-blanket
   sort: shapiro 2009 lectures on stochastic programming
+- key: sharma2025constitutional
+  authors:
+  - Sharma, M.
+  - others
+  year: 2025
+  title: 'Constitutional classifiers: defending against universal jailbreaks across thousands of hours of red teaming'
+  venue: arXiv:2501.18837
+  kind: preprint
+  topic: alignment
+  cited_in:
+  - contemplative-ai
+  sort: 'sharma 2025 constitutional classifiers: defending ag'
 - key: shinomoto2009relating
   authors:
   - Shinomoto, S.
@@ -2903,6 +3098,7 @@
   topic: suttas
   cited_in:
   - network-to-dharma
+  - contemplative-ai
   sort: sutta 1 mn007
 - key: sutta-mn009
   authors: []
@@ -2941,6 +3137,7 @@
   topic: suttas
   cited_in:
   - network-to-dharma
+  - contemplative-ai
   sort: sutta 1 mn019
 - key: sutta-mn020
   authors: []
@@ -2960,7 +3157,18 @@
   topic: suttas
   cited_in:
   - network-to-dharma
+  - contemplative-ai
   sort: sutta 1 mn021
+- key: sutta-mn022
+  authors: []
+  year: 0
+  title: 'MN 22, Alagaddūpama Sutta: The Simile of the Snake'
+  venue: tr. Ñāṇamoli & Bodhi, Middle Length Discourses (Wisdom, 1995)
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - contemplative-ai
+  sort: sutta 1 mn022
 - key: sutta-mn035
   authors: []
   year: 0
@@ -2970,6 +3178,7 @@
   topic: suttas
   cited_in:
   - network-to-dharma
+  - contemplative-ai
   sort: sutta 1 mn035
 - key: sutta-mn038
   authors: []
@@ -3009,6 +3218,36 @@
   topic: suttas
   cited_in: *id001
   sort: sutta 1 mn061
+- key: sutta-mn121
+  authors: []
+  year: 0
+  title: 'MN 121, Cūḷasuññata Sutta: The Shorter Discourse on Voidness'
+  venue: tr. Ñāṇamoli & Bodhi, Middle Length Discourses (Wisdom, 1995)
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - contemplative-ai
+  sort: sutta 1 mn121
+- key: sutta-mn131
+  authors: []
+  year: 0
+  title: 'MN 131, Bhaddekaratta Sutta: One Fortunate Attachment'
+  venue: tr. Ñāṇamoli & Bodhi, Middle Length Discourses (Wisdom, 1995)
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - contemplative-ai
+  sort: sutta 1 mn131
+- key: sutta-sn12015
+  authors: []
+  year: 0
+  title: 'SN 12.15, Kaccānagotta Sutta: Kaccānagotta'
+  venue: tr. Bodhi, Connected Discourses (Wisdom, 2000)
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - contemplative-ai
+  sort: sutta 2 sn12015
 - key: sutta-sn22059
   authors: []
   year: 0
@@ -3018,6 +3257,7 @@
   topic: suttas
   cited_in:
   - network-to-dharma
+  - contemplative-ai
   sort: sutta 2 sn22059
 - key: sutta-sn36006
   authors: []
@@ -3047,6 +3287,16 @@
   topic: suttas
   cited_in: *id001
   sort: sutta 2 sn46053
+- key: sutta-sn47019
+  authors: []
+  year: 0
+  title: 'SN 47.19, Sedaka Sutta: Sedaka (the acrobat)'
+  venue: tr. Bodhi, Connected Discourses (Wisdom, 2000)
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - contemplative-ai
+  sort: sutta 2 sn47019
 - key: sutta-an5198
   authors: []
   year: 0
@@ -3066,6 +3316,26 @@
   cited_in:
   - network-to-dharma
   sort: sutta 3 an6063
+- key: sutta-ud0110
+  authors: []
+  year: 0
+  title: 'Ud 1.10, Bāhiya Sutta: Bāhiya'
+  venue: tr. Sujato, SuttaCentral
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - contemplative-ai
+  sort: sutta 4 ud0110
+- key: sutta-snp0108
+  authors: []
+  year: 0
+  title: 'Snp 1.8, Karaṇīya Metta Sutta: Goodwill'
+  venue: tr. Sujato, SuttaCentral
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - contemplative-ai
+  sort: sutta 5 snp0108
 - key: tang2019quantum
   authors:
   - Tang, E.

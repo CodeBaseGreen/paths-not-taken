@@ -13,6 +13,9 @@
 - id: contemplative
   name: Contemplative traditions and AI
   blurb: Insight meditation, Insight Dialogue, self-models, and work linking contemplative practice with AI.
+- id: alignment
+  name: AI alignment and safety
+  blurb: Constitutions, deliberative alignment, hidden sub-goals and safety benchmarks.
 - id: curiosity
   name: Curiosity, compression and exploration
   blurb: Learning driven by progress and novelty, and how to measure compression.
