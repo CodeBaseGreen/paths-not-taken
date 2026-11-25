@@ -4,7 +4,7 @@
 {%- if n == 0 -%}{%- elsif n > 6 -%}{{ e.authors[0] }} et al.
 {%- else -%}{%- for a in e.authors -%}{%- if a == "others" -%} et al.{%- else -%}{%- if forloop.first == false -%}{%- if forloop.last -%}, &amp; {% else %}, {% endif -%}{%- endif -%}{{ a }}{%- endif -%}{%- endfor -%}{%- endif -%}
 {%- endcapture -%}
-{%- if n > 0 -%}<strong>{{ auth | strip }}</strong> ({{ e.year }}). {{ e.title }}.{%- else -%}<strong>{{ e.title }}</strong> ({{ e.year }}).{%- endif %}
+{%- if n > 0 -%}<strong>{{ auth | strip }}</strong> ({{ e.year }}). {{ e.title }}.{%- else -%}<strong>{{ e.title }}</strong>{% if e.year != 0 %} ({{ e.year }}){% endif %}.{%- endif %}
 {% if e.venue != "" %}<em>{{ e.venue }}</em>.{% endif %}
 <span class="lib-cited">Cited in:
 {%- for c in e.cited_in -%}{%- assign p = site.posts | where: "slug", c | first -%}{%- if p %} <a href="{{ p.url | relative_url }}">{{ p.title }}</a>{%- unless forloop.last -%};{%- endunless -%}{%- endif -%}{%- endfor -%}

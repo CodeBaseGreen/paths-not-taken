@@ -7,6 +7,12 @@
 - id: free-energy
   name: Free energy and active inference
   blurb: Friston's framework and its critics.
+- id: suttas
+  name: Early Buddhist discourses
+  blurb: The Middle Length Discourses and related suttas, cited by collection and number.
+- id: contemplative
+  name: Contemplative traditions and AI
+  blurb: Insight meditation, Insight Dialogue, self-models, and work linking contemplative practice with AI.
 - id: curiosity
   name: Curiosity, compression and exploration
   blurb: Learning driven by progress and novelty, and how to measure compression.

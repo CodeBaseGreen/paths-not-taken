@@ -100,6 +100,18 @@
   - paths-not-taken
   - thirty-papers-behind-the-discussion
   sort: 'ameisen 2025 circuit tracing: revealing computational'
+- key: analayo2003satipatthana
+  authors:
+  - Anālayo
+  year: 2003
+  title: 'Satipaṭṭhāna: The Direct Path to Realization'
+  venue: Windhorse
+  kind: book
+  topic: contemplative
+  cited_in: &id001
+  - better-ai-as-in-better-for-humans
+  - network-to-dharma
+  sort: 'analayo 2003 satipatthana: the direct path to realiza'
 - key: anschuetz2023interpretable
   authors:
   - Anschuetz, E. R.
@@ -340,6 +352,17 @@
   cited_in:
   - interference-not-parallelism
   sort: bennett 1997 strengths and weaknesses of quantum comp
+- key: bodhi2005words
+  authors:
+  - Bodhi, Bhikkhu
+  year: 2005
+  title: 'In the Buddha''s Words: An Anthology of Discourses from the Pāli Canon'
+  venue: Wisdom
+  kind: book
+  topic: contemplative
+  cited_in:
+  - network-to-dharma
+  sort: 'bodhi 2005 in the buddha''s words: an anthology of d'
 - key: boerlin2013predictive
   authors:
   - Boerlin, M.
@@ -768,6 +791,20 @@
   cited_in:
   - paths-not-taken
   sort: dixit 1994 investment under uncertainty
+- key: doctor2022biology
+  authors:
+  - Doctor, T.
+  - Witkowski, O.
+  - Solomonova, E.
+  - Duane, B.
+  - Levin, M.
+  year: 2022
+  title: 'Biology, Buddhism, and AI: care as the driver of intelligence'
+  venue: Entropy 24(5), 710
+  kind: article
+  topic: contemplative
+  cited_in: *id001
+  sort: 'doctor 2022 biology, buddhism, and ai: care as the d'
 - key: dohare2024loss
   authors:
   - Dohare, S.
@@ -1266,6 +1303,7 @@
   cited_in:
   - post-pearl
   - interference-not-parallelism
+  - better-ai-as-in-better-for-humans
   sort: 'geiger 2025 causal abstraction: a theoretical founda'
 - key: gilliganlee2025quantum
   authors:
@@ -1306,6 +1344,32 @@
   cited_in:
   - qubits-for-causal-compression
   sort: goel 2026 quantum algorithms for causal estimands
+- key: goertzel2014egi1
+  authors:
+  - Goertzel, B.
+  - Pennachin, C.
+  - Geisweiller, N.
+  year: 2014
+  title: 'Engineering General Intelligence, Part 1: A Path to Advanced AGI via Embodied Learning and Cognitive Synergy'
+  venue: Atlantis Press
+  kind: book
+  topic: contemplative
+  cited_in:
+  - better-ai-as-in-better-for-humans
+  sort: goertzel 2014 engineering general intelligence, part 1
+- key: goertzel2014egi2
+  authors:
+  - Goertzel, B.
+  - Pennachin, C.
+  - Geisweiller, N.
+  year: 2014
+  title: 'Engineering General Intelligence, Part 2: The CogPrime Architecture for Integrative, Embodied AGI'
+  venue: Atlantis Press
+  kind: book
+  topic: contemplative
+  cited_in:
+  - better-ai-as-in-better-for-humans
+  sort: goertzel 2014 engineering general intelligence, part 2
 - key: goldreich1989hard
   authors:
   - Goldreich, O.
@@ -1318,6 +1382,16 @@
   cited_in:
   - interference-not-parallelism
   sort: goldreich 1989 a hard-core predicate for all one-way fu
+- key: goldstein2013mindfulness
+  authors:
+  - Goldstein, J.
+  year: 2013
+  title: 'Mindfulness: A Practical Guide to Awakening'
+  venue: Sounds True
+  kind: book
+  topic: contemplative
+  cited_in: *id001
+  sort: 'goldstein 2013 mindfulness: a practical guide to awaken'
 - key: grand2024lilo
   authors:
   - Grand, G.
@@ -1764,6 +1838,26 @@
   cited_in:
   - interference-not-parallelism
   sort: kitaev 1995 quantum measurements and the abelian sta
+- key: kramer2007insight
+  authors:
+  - Kramer, G.
+  year: 2007
+  title: 'Insight Dialogue: The Interpersonal Path to Freedom'
+  venue: Shambhala
+  kind: book
+  topic: contemplative
+  cited_in: *id001
+  sort: 'kramer 2007 insight dialogue: the interpersonal path'
+- key: kramer2020whole
+  authors:
+  - Kramer, G.
+  year: 2020
+  title: 'A Whole-Life Path: A Lay Buddhist''s Guide to Crafting a Dhamma-Infused Life'
+  venue: Insight Dialogue Community
+  kind: book
+  topic: contemplative
+  cited_in: *id001
+  sort: 'kramer 2020 a whole-life path: a lay buddhist''s guid'
 - key: kushilevitz1993learning
   authors:
   - Kushilevitz, E.
@@ -1810,6 +1904,23 @@
   cited_in:
   - copies-lineages-and-noise
   sort: lande 1979 quantitative genetic analysis of multiva
+- key: laukkonen2025contemplative
+  authors:
+  - Laukkonen, R.
+  - Inglis, F.
+  - Chandaria, S.
+  - Sandved-Smith, L.
+  - Lopez-Sola, E.
+  - Hohwy, J.
+  - Gold, J.
+  - Elwood, A.
+  year: 2025
+  title: Contemplative artificial intelligence
+  venue: arXiv:2504.15125
+  kind: preprint
+  topic: contemplative
+  cited_in: *id001
+  sort: laukkonen 2025 contemplative artificial intelligence
 - key: layden2023quantum
   authors:
   - Layden, D.
@@ -1993,6 +2104,16 @@
   cited_in:
   - copies-lineages-and-noise
   sort: mcmahan 2017 communication-efficient learning of deep
+- key: metzinger2003being
+  authors:
+  - Metzinger, T.
+  year: 2003
+  title: 'Being No One: The Self-Model Theory of Subjectivity'
+  venue: MIT Press
+  kind: book
+  topic: contemplative
+  cited_in: *id001
+  sort: 'metzinger 2003 being no one: the self-model theory of s'
 - key: micikevicius2018mixed
   authors:
   - Micikevicius, P.
@@ -2082,6 +2203,17 @@
   cited_in:
   - copies-lineages-and-noise
   sort: 'nader 2000 fear memories require protein synthesis '
+- key: nanananda1971concept
+  authors:
+  - Ñāṇananda, Bhikkhu
+  year: 1971
+  title: Concept and Reality in Early Buddhist Thought
+  venue: Buddhist Publication Society
+  kind: book
+  topic: contemplative
+  cited_in:
+  - network-to-dharma
+  sort: nanananda 1971 concept and reality in early buddhist th
 - key: nanda2023progress
   authors:
   - Nanda, N.
@@ -2476,6 +2608,17 @@
   cited_in:
   - copies-lineages-and-noise
   sort: salimans 2017 evolution strategies as a scalable alter
+- key: salzberg1995lovingkindness
+  authors:
+  - Salzberg, S.
+  year: 1995
+  title: 'Lovingkindness: The Revolutionary Art of Happiness'
+  venue: Shambhala
+  kind: book
+  topic: contemplative
+  cited_in:
+  - network-to-dharma
+  sort: 'salzberg 1995 lovingkindness: the revolutionary art of'
 - key: schlag2019enhancing
   authors:
   - Schlag, I.
@@ -2730,6 +2873,188 @@
   cited_in:
   - paths-not-taken
   sort: 'stanley 2009 a hypercube-based encoding for evolving '
+- key: sutta-mn002
+  authors: []
+  year: 0
+  title: 'MN 2, Sabbāsava Sutta: All the Taints'
+  venue: tr. Ñāṇamoli & Bodhi, Middle Length Discourses (Wisdom, 1995)
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - network-to-dharma
+  sort: sutta 1 mn002
+- key: sutta-mn007
+  authors: []
+  year: 0
+  title: 'MN 7, Vatthūpama Sutta: The Simile of the Cloth'
+  venue: tr. Ñāṇamoli & Bodhi, Middle Length Discourses (Wisdom, 1995)
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - network-to-dharma
+  sort: sutta 1 mn007
+- key: sutta-mn009
+  authors: []
+  year: 0
+  title: 'MN 9, Sammādiṭṭhi Sutta: Right View'
+  venue: tr. Ñāṇamoli & Bodhi, Middle Length Discourses (Wisdom, 1995)
+  kind: sutta
+  topic: suttas
+  cited_in: *id001
+  sort: sutta 1 mn009
+- key: sutta-mn010
+  authors: []
+  year: 0
+  title: 'MN 10, Satipaṭṭhāna Sutta: The Foundations of Mindfulness'
+  venue: tr. Ñāṇamoli & Bodhi, Middle Length Discourses (Wisdom, 1995)
+  kind: sutta
+  topic: suttas
+  cited_in: *id001
+  sort: sutta 1 mn010
+- key: sutta-mn018
+  authors: []
+  year: 0
+  title: 'MN 18, Madhupiṇḍika Sutta: The Honeyball'
+  venue: tr. Ñāṇamoli & Bodhi, Middle Length Discourses (Wisdom, 1995)
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - network-to-dharma
+  sort: sutta 1 mn018
+- key: sutta-mn019
+  authors: []
+  year: 0
+  title: 'MN 19, Dvedhāvitakka Sutta: Two Kinds of Thought'
+  venue: tr. Ñāṇamoli & Bodhi, Middle Length Discourses (Wisdom, 1995)
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - network-to-dharma
+  sort: sutta 1 mn019
+- key: sutta-mn020
+  authors: []
+  year: 0
+  title: 'MN 20, Vitakkasaṇṭhāna Sutta: The Removal of Distracting Thoughts'
+  venue: tr. Ñāṇamoli & Bodhi, Middle Length Discourses (Wisdom, 1995)
+  kind: sutta
+  topic: suttas
+  cited_in: *id001
+  sort: sutta 1 mn020
+- key: sutta-mn021
+  authors: []
+  year: 0
+  title: 'MN 21, Kakacūpama Sutta: The Simile of the Saw'
+  venue: tr. Ñāṇamoli & Bodhi, Middle Length Discourses (Wisdom, 1995)
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - network-to-dharma
+  sort: sutta 1 mn021
+- key: sutta-mn035
+  authors: []
+  year: 0
+  title: 'MN 35, Cūḷasaccaka Sutta: The Shorter Discourse to Saccaka'
+  venue: tr. Ñāṇamoli & Bodhi, Middle Length Discourses (Wisdom, 1995)
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - network-to-dharma
+  sort: sutta 1 mn035
+- key: sutta-mn038
+  authors: []
+  year: 0
+  title: 'MN 38, Mahātaṇhāsaṅkhaya Sutta: The Greater Discourse on the Destruction of Craving'
+  venue: tr. Ñāṇamoli & Bodhi, Middle Length Discourses (Wisdom, 1995)
+  kind: sutta
+  topic: suttas
+  cited_in: *id001
+  sort: sutta 1 mn038
+- key: sutta-mn044
+  authors: []
+  year: 0
+  title: 'MN 44, Cūḷavedalla Sutta: The Shorter Series of Questions and Answers'
+  venue: tr. Ñāṇamoli & Bodhi, Middle Length Discourses (Wisdom, 1995)
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - network-to-dharma
+  sort: sutta 1 mn044
+- key: sutta-mn058
+  authors: []
+  year: 0
+  title: 'MN 58, Abhayarājakumāra Sutta: To Prince Abhaya'
+  venue: tr. Ñāṇamoli & Bodhi, Middle Length Discourses (Wisdom, 1995)
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - network-to-dharma
+  sort: sutta 1 mn058
+- key: sutta-mn061
+  authors: []
+  year: 0
+  title: 'MN 61, Ambalaṭṭhikārāhulovāda Sutta: Advice to Rāhula at Ambalaṭṭhikā'
+  venue: tr. Ñāṇamoli & Bodhi, Middle Length Discourses (Wisdom, 1995)
+  kind: sutta
+  topic: suttas
+  cited_in: *id001
+  sort: sutta 1 mn061
+- key: sutta-sn22059
+  authors: []
+  year: 0
+  title: 'SN 22.59, Anattalakkhaṇa Sutta: The Characteristic of Nonself'
+  venue: tr. Bodhi, Connected Discourses (Wisdom, 2000)
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - network-to-dharma
+  sort: sutta 2 sn22059
+- key: sutta-sn36006
+  authors: []
+  year: 0
+  title: 'SN 36.6, Sallatha Sutta: The Dart'
+  venue: tr. Bodhi, Connected Discourses (Wisdom, 2000)
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - network-to-dharma
+  sort: sutta 2 sn36006
+- key: sutta-sn46051
+  authors: []
+  year: 0
+  title: 'SN 46.51, Āhāra Sutta: Nutriment'
+  venue: tr. Bodhi, Connected Discourses (Wisdom, 2000)
+  kind: sutta
+  topic: suttas
+  cited_in: *id001
+  sort: sutta 2 sn46051
+- key: sutta-sn46053
+  authors: []
+  year: 0
+  title: 'SN 46.53, Aggi Sutta: Fire'
+  venue: tr. Bodhi, Connected Discourses (Wisdom, 2000)
+  kind: sutta
+  topic: suttas
+  cited_in: *id001
+  sort: sutta 2 sn46053
+- key: sutta-an5198
+  authors: []
+  year: 0
+  title: 'AN 5.198, Vācā Sutta: Speech'
+  venue: tr. Bodhi, Numerical Discourses (Wisdom, 2012)
+  kind: sutta
+  topic: suttas
+  cited_in: *id001
+  sort: sutta 3 an5198
+- key: sutta-an6063
+  authors: []
+  year: 0
+  title: 'AN 6.63, Nibbedhika Sutta: Penetrative'
+  venue: tr. Bodhi, Numerical Discourses (Wisdom, 2012)
+  kind: sutta
+  topic: suttas
+  cited_in:
+  - network-to-dharma
+  sort: sutta 3 an6063
 - key: tang2019quantum
   authors:
   - Tang, E.
@@ -2765,6 +3090,16 @@
   cited_in:
   - paths-not-taken
   sort: thompson 1996 an evolved circuit, intrinsic in silicon
+- key: thompson2020why
+  authors:
+  - Thompson, E.
+  year: 2020
+  title: Why I Am Not a Buddhist
+  venue: Yale University Press
+  kind: book
+  topic: contemplative
+  cited_in: *id001
+  sort: thompson 2020 why i am not a buddhist
 - key: thorpe2001spike
   authors:
   - Thorpe, S.
@@ -2790,6 +3125,18 @@
   cited_in:
   - opening-the-markov-blanket
   sort: 'tian 2000 probabilities of causation: bounds and i'
+- key: varela1991embodied
+  authors:
+  - Varela, F. J.
+  - Thompson, E.
+  - Rosch, E.
+  year: 1991
+  title: 'The Embodied Mind: Cognitive Science and Human Experience'
+  venue: MIT Press
+  kind: book
+  topic: contemplative
+  cited_in: *id001
+  sort: 'varela 1991 the embodied mind: cognitive science and'
 - key: verdon2019quantum
   authors:
   - Verdon, G.

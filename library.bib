@@ -7,9 +7,9 @@ sitemap: false
 % {{ site.url }}{{ site.baseurl }}/library/
 {% for e in site.data.library %}{% case e.kind %}{% when "article" %}{% assign t = "article" %}{% assign vf = "journal" %}{% when "inproceedings" %}{% assign t = "inproceedings" %}{% assign vf = "booktitle" %}{% when "incollection" %}{% assign t = "incollection" %}{% assign vf = "booktitle" %}{% when "book" %}{% assign t = "book" %}{% assign vf = "publisher" %}{% when "techreport" %}{% assign t = "techreport" %}{% assign vf = "institution" %}{% else %}{% assign t = "misc" %}{% assign vf = "howpublished" %}{% endcase %}
 @{{ t }}{ {{- e.key }},
-  author = { {{- e.authors | join: " and " -}} },
-  title = { {{- e.title | replace: "&", "\&" -}} },
-  {{ vf }} = { {{- e.venue | replace: "&", "\&" -}} },
-  year = { {{- e.year -}} }
+{% if e.authors.size > 0 %}  author = { {{- e.authors | join: " and " -}} },
+{% endif %}  title = { {{- e.title | replace: "&", "\&" -}} },
+  {{ vf }} = { {{- e.venue | replace: "&", "\&" -}} }{% if e.year != 0 %},
+  year = { {{- e.year -}} }{% endif %}
 }
 {% endfor %}
