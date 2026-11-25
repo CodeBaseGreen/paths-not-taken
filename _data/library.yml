@@ -1838,6 +1838,17 @@
   cited_in:
   - interference-not-parallelism
   sort: kitaev 1995 quantum measurements and the abelian sta
+- key: kramer-dharma-contemplation
+  authors:
+  - Kramer, G.
+  year: 0
+  title: 'Dharma Contemplation: Meditating Together with Wisdom Texts'
+  venue: ''
+  kind: book
+  topic: contemplative
+  cited_in:
+  - better-ai-as-in-better-for-humans
+  sort: 'kramer 0 dharma contemplation: meditating togethe'
 - key: kramer2007insight
   authors:
   - Kramer, G.
