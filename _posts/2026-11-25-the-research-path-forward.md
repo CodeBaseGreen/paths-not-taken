@@ -22,7 +22,7 @@ progress, and leave the irreversible decisions to people.
 **Twenty-five components, evaluated.** Each is rated for what it contributes, whether it's critical, how much
 effort it takes, and how unusual it is. The encouraging finding: every critical component is cheap.
 
-![Contribution versus effort]({{ '/assets/img/posts/fig-priority.png' | relative_url }}){: width="826" }
+![Contribution versus effort](/assets/img/posts/fig-priority.png){: width="826" }
 _Each component's contribution against its effort. The critical ones cluster in the high-value, low-effort corner._
 
 **Also covered:**
@@ -35,7 +35,7 @@ _Each component's contribution against its effort. The critical ones cluster in 
   maths.
 - **The human–machine blend:** what people and machines each actually do.
 
-![The roadmap]({{ '/assets/img/posts/fig-roadmap.png' | relative_url }}){: width="891" }
+![The roadmap](/assets/img/posts/fig-roadmap.png){: width="891" }
 _Things first: a testbed, then a counterfactual laboratory, then internal models, breeding and scale in parallel, then curiosity, concept discovery and live performance._
 
 It ends with a worked research scenario, the outcomes that would show the approach is wrong, open questions,

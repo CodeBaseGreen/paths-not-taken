@@ -25,13 +25,13 @@ The annex asks which of those obstacles shrink when two new capabilities are add
   causal discovery becomes close to an engineering problem, solved with paired experiments, exact
   counterfactuals and program analysis.
 
-![Where the irreversible boundary sits]({{ '/assets/img/posts/fig-boundary.png' | relative_url }}){: width="883" }
+![Where the irreversible boundary sits](/assets/img/posts/fig-boundary.png){: width="883" }
 _Orange is irreversible, blue is replayable. As more becomes replayable, the irreversible boundary moves outward._
 
 What stays scarce is the invention of good concepts, the choice of which outcomes matter, and honesty about
 reality. That's where human judgement and real, irreversible evidence keep their value.
 
-![Paired versus unpaired comparison]({{ '/assets/img/posts/fig-crn.png' | relative_url }}){: width="839" }
+![Paired versus unpaired comparison](/assets/img/posts/fig-crn.png){: width="839" }
 _Comparing options under the same seeds finds the best one with far fewer trials than comparing under fresh noise._
 
 - [Read the short edition (PDF, 7 pages)]({{ '/assets/pdf/Opening-the-Markov-Blanket.pdf' | relative_url }})

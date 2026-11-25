@@ -31,7 +31,7 @@ It makes four arguments.
    the *rate* of improvement in explaining experience, complements Friston's minimised surprise. Measuring it
    needs exactly the rewind that machines have and people lack.
 
-![Where reversibility sits in a combined system]({{ '/assets/img/posts/fig-cosystem.png' | relative_url }}){: width="891" }
+![Where reversibility sits in a combined system](/assets/img/posts/fig-cosystem.png){: width="891" }
 _A reversible envelope on the machine side, irreversible commit points at the people and the world, and an append-only log where reversibility is paid for._
 
 Along the way it introduces, at the level of ideas rather than formulas, the mathematics these arguments draw on:

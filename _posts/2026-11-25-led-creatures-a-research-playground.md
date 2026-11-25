@@ -21,7 +21,7 @@ repeats exactly. Any value at any moment can be changed and the two runs compare
 named genes, rather than code. So "what would this creature have done if that gene were switched off?" is not a
 guess but an experiment, and the counterfactual machinery of the essays becomes something you can watch.
 
-![The layers of the system]({{ '/assets/img/posts/fig-arch.png' | relative_url }}){: width="891" }
+![The layers of the system](/assets/img/posts/fig-arch.png){: width="891" }
 _From genes to creature, through a deterministic world engine driven by the music, out to pure light: colours per LED per frame._
 
 Two documents:
