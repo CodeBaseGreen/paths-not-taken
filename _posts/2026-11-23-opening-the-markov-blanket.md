@@ -4,7 +4,7 @@ date: 2026-11-23 15:00:00 +1300
 tags: [free-energy, irreversibility, simulation, counterfactuals, panel]
 description: The free energy principle for learners that can replay themselves, and for worlds that can be replayed too. What becomes calculable, and what doesn't.
 image:
-  path: /assets/img/posts/markov.jpg
+  path: /assets/img/posts/cover-markov.jpg
   alt: "Where the irreversible boundary sits for a biological agent, an introspectable machine and a machine in a simulation"
 ---
 

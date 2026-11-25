@@ -4,7 +4,7 @@ date: 2026-11-23 08:00:00 +1300
 tags: [reading-list, causality, curiosity, abstraction]
 description: A reading compendium of thirty papers on causation, irreversibility, sparse and hyperdimensional codes, category theory, curiosity and development.
 image:
-  path: /assets/img/posts/thirty.jpg
+  path: /assets/img/posts/cover-thirty.jpg
   alt: "The thread map: thirty papers marked against the seven threads of the discussion"
 ---
 

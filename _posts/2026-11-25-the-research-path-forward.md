@@ -4,7 +4,7 @@ date: 2026-11-25 20:07:00 +1300
 tags: [roadmap, counterfactuals, curiosity, abstraction, simulation, panel]
 description: Which parts matter most, which are critical, what can be swapped for something simpler, and in what order, for one person working at small scale.
 image:
-  path: /assets/img/posts/forward.jpg
+  path: /assets/img/posts/cover-forward.jpg
   alt: "The research roadmap, stage by stage"
 ---
 

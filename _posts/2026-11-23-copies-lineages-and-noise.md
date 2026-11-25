@@ -4,7 +4,7 @@ date: 2026-11-23 00:03:00 +1300
 tags: [evolution, noise, learning]
 description: Learning in evolution, in gradient-trained language models and in brains, and where the bits of precision come from.
 image:
-  path: /assets/img/posts/copies.jpg
+  path: /assets/img/posts/cover-copies.jpg
   alt: "Copies share one set of weights; lineages differ, and the differences are the signal"
 ---
 
