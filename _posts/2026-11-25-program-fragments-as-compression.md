@@ -1,6 +1,6 @@
 ---
 title: "Program Fragments as Compression"
-date: 2026-11-25 22:36:00 +1300
+date: 2026-11-25 22:20:00 +1300
 tags: [abstraction, curiosity, panel]
 description: Code, graphs whose nodes are graphs, and the search for reusable parts. A short map of good leads.
 image:
