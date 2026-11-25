@@ -5,7 +5,7 @@ tags: [evolution, noise, learning]
 description: Learning in evolution, in gradient-trained language models and in brains, and where the bits of precision come from.
 image:
   path: /assets/img/posts/copies.jpg
-  alt: LED strips with green and gold paths
+  alt: Copies share one set of weights; lineages differ, and the differences are the signal
 ---
 
 An essay (20 pages) comparing the three systems on this planet that learn at scale: evolving populations,
@@ -20,12 +20,13 @@ The usual comparison puts them on one axis, biological versus artificial. This e
 The argument is that these are really one distinction. Reproducibility, shareability and the need for an
 explicit gradient come bundled together. Noise, uniqueness and learning by variation are the opposite bundle.
 
-![Copies versus lineages](/assets/img/posts/fig-copies.png){: width="844" }
-_Copies share one set of weights and differ in their data. Lineages differ in their weights, and the differences are the signal._
 
 The first half is grounded material: evolution strategies and the Lande equation as gradient estimators,
 Hinton's "mortal computation", the energy cost of reliable bits from Landauer's limit up to DRAM, and how
 precision scales in counting, sigma-delta and timing codes.
+
+![Energy per event](/assets/img/posts/fig-energy.png){: width="1145" }
+_Energy per event, from an off-chip memory read down to Landauer's limit for erasing one bit, with biological estimates alongside._
 
 The second half is speculative and says so. It proposes eight associations that haven't, as far as I know,
 been drawn together. Among them: species as connected basins in a fitness landscape, representational drift in

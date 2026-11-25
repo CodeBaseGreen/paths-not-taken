@@ -5,7 +5,7 @@ tags: [quantum, counterfactuals, causality, free-energy]
 description: Could quantum computing make the intractable parts of active inference, causal discovery and counterfactual learning tractable? Partly, and mostly by a square root.
 image:
   path: /assets/img/posts/qubits.jpg
-  alt: LED strips with two lit, branching paths
+  alt: Twin-network counterfactual circuit: noise qubits shared between the factual and counterfactual worlds
 ---
 
 A working paper (14 pages) asking a blunt question: could quantum computers make the expensive parts of
@@ -18,6 +18,9 @@ of a causal model become qubits. The structural equations become reversible gate
 literally deleting gates. Pearl's "twin network" for counterfactuals is a second copy of the circuit wired to
 the same noise qubits. Small simulated circuits reproduce the exact answers for all three rungs of Pearl's
 ladder.
+
+![Where qubits can and cannot enter](/assets/img/posts/fig-qubits-loops.png){: width="1656" }
+_The situated loop, acting in the one real world, stays classical. Qubits can only enter the imagination loop: rollouts of the learned causal model._
 
 **The speed-ups are real but mostly quadratic.** Conditioning on rare evidence, estimating an expected
 free energy, and searching over candidate policies or coarsenings each get a square-root saving. That roughly

@@ -6,7 +6,7 @@ tags: [counterfactuals, irreversibility, human-machine, curiosity, abstraction, 
 description: Counterfactuals, irreversibility and structure in learning systems built from humans and machines. The central essay of this archive, with a panel discussion.
 image:
   path: /assets/img/posts/paths.jpg
-  alt: LED strips with an orange path taken and a blue path beside it
+  alt: Where reversibility sits in a combined human and machine system
 ---
 
 The central essay of this archive (32 pages), with a panel discussion of it.
@@ -31,8 +31,9 @@ It makes four arguments.
    the *rate* of improvement in explaining experience, complements Friston's minimised surprise. Measuring it
    needs exactly the rewind that machines have and people lack.
 
-![Where reversibility sits in a combined system](/assets/img/posts/fig-cosystem.png){: width="891" }
-_A reversible envelope on the machine side, irreversible commit points at the people and the world, and an append-only log where reversibility is paid for._
+![Compression progress](/assets/img/posts/fig-progress.png){: width="844" }
+_Free-energy minimisation drives the level of description length down. Curiosity rewards the slope: the moments when a new, reusable piece of structure is found._
+
 
 Along the way it introduces, at the level of ideas rather than formulas, the mathematics these arguments draw on:
 sparse codes, vector-symbolic algebra, category theory, topology, and the theory of reusing an evaluator

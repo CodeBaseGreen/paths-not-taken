@@ -5,7 +5,7 @@ tags: [roadmap, counterfactuals, curiosity, abstraction, simulation, panel]
 description: Which parts matter most, which are critical, what can be swapped for something simpler, and in what order, for one person working at small scale.
 image:
   path: /assets/img/posts/forward.jpg
-  alt: LED strips with orange and green paths
+  alt: The research roadmap, stage by stage
 ---
 
 The practical follow-up to the essays (23 pages), with a panel discussion. It asks what should actually be built,
@@ -35,8 +35,6 @@ _Each component's contribution against its effort. The critical ones cluster in 
   maths.
 - **The human–machine blend:** what people and machines each actually do.
 
-![The roadmap](/assets/img/posts/fig-roadmap.png){: width="891" }
-_Things first: a testbed, then a counterfactual laboratory, then internal models, breeding and scale in parallel, then curiosity, concept discovery and live performance._
 
 It ends with a worked research scenario, the outcomes that would show the approach is wrong, open questions,
 and a log of the main decisions and what would reopen each.

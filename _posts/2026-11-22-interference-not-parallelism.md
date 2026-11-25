@@ -5,7 +5,7 @@ tags: [quantum, abstraction, causality, counterfactuals]
 description: Why "try everything at once" is the wrong way to use superposition, and why abstractions, as hidden symmetries, might be the right target.
 image:
   path: /assets/img/posts/interference.jpg
-  alt: LED strips with violet and teal paths
+  alt: A maze with one route through it and many dead ends
 ---
 
 A second working paper (12 pages) that replaces the first. The earlier version used quantum computers as

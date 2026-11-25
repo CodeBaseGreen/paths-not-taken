@@ -5,7 +5,7 @@ tags: [free-energy, irreversibility, simulation, counterfactuals, panel]
 description: The free energy principle for learners that can replay themselves, and for worlds that can be replayed too. What becomes calculable, and what doesn't.
 image:
   path: /assets/img/posts/markov.jpg
-  alt: LED strips with blue and orange paths
+  alt: Where the irreversible boundary sits for a biological agent, an introspectable machine and a machine in a simulation
 ---
 
 An annex to [Paths Not Taken]({{ '/posts/paths-not-taken/' | relative_url }}), in a short edition (7 pages) and an
@@ -25,8 +25,6 @@ The annex asks which of those obstacles shrink when two new capabilities are add
   causal discovery becomes close to an engineering problem, solved with paired experiments, exact
   counterfactuals and program analysis.
 
-![Where the irreversible boundary sits](/assets/img/posts/fig-boundary.png){: width="883" }
-_Orange is irreversible, blue is replayable. As more becomes replayable, the irreversible boundary moves outward._
 
 What stays scarce is the invention of good concepts, the choice of which outcomes matter, and honesty about
 reality. That's where human judgement and real, irreversible evidence keep their value.
