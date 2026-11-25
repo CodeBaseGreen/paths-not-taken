@@ -639,6 +639,17 @@
   cited_in:
   - interference-not-parallelism
   sort: cross 2015 quantum learning robust against noise
+- key: dawid2000causal
+  authors:
+  - Dawid, A. P.
+  year: 2000
+  title: Causal inference without counterfactuals
+  venue: Journal of the American Statistical Association 95, 407–424
+  kind: article
+  topic: causation
+  cited_in:
+  - the-ruliad-and-the-spine
+  sort: dawid 2000 causal inference without counterfactuals
 - key: deneve2016efficient
   authors:
   - Denève, S.
@@ -665,6 +676,29 @@
   cited_in:
   - copies-lineages-and-noise
   sort: 'dettmers 2022 llm.int8(): 8-bit matrix multiplication '
+- key: deutsch2013constructor
+  authors:
+  - Deutsch, D.
+  year: 2013
+  title: Constructor theory
+  venue: Synthese 190
+  kind: article
+  topic: possibility
+  cited_in:
+  - the-ruliad-and-the-spine
+  sort: deutsch 2013 constructor theory
+- key: deutsch2015constructor
+  authors:
+  - Deutsch, D.
+  - Marletto, C.
+  year: 2015
+  title: Constructor theory of information
+  venue: Proceedings of the Royal Society A 471
+  kind: article
+  topic: possibility
+  cited_in:
+  - the-ruliad-and-the-spine
+  sort: deutsch 2015 constructor theory of information
 - key: diehl2015fast
   authors:
   - Diehl, P. U.
@@ -1850,6 +1884,28 @@
   - paths-not-taken
   - thirty-papers-behind-the-discussion
   sort: maclaurin 2015 gradient-based hyperparameter optimizati
+- key: marletto2015constructor
+  authors:
+  - Marletto, C.
+  year: 2015
+  title: Constructor theory of life
+  venue: Journal of the Royal Society Interface 12, 20141226
+  kind: article
+  topic: possibility
+  cited_in:
+  - the-ruliad-and-the-spine
+  sort: marletto 2015 constructor theory of life
+- key: marletto2021science
+  authors:
+  - Marletto, C.
+  year: 2021
+  title: The Science of Can and Can't
+  venue: Penguin
+  kind: book
+  topic: possibility
+  cited_in:
+  - the-ruliad-and-the-spine
+  sort: marletto 2021 the science of can and can't
 - key: mcmahan2017communication
   authors:
   - McMahan, B.
@@ -2208,6 +2264,19 @@
   cited_in:
   - copies-lineages-and-noise
   sort: ramsauer 2021 hopfield networks is all you need
+- key: rickles2023ruliology
+  authors:
+  - Rickles, D.
+  - Elshatlawy, H.
+  - Arsiwalla, X. D.
+  year: 2023
+  title: 'Ruliology: linking computation, observers and physical law'
+  venue: arXiv:2308.16068
+  kind: preprint
+  topic: possibility
+  cited_in:
+  - the-ruliad-and-the-spine
+  sort: 'rickles 2023 ruliology: linking computation, observer'
 - key: ried2015quantum
   authors:
   - Ried, K.
@@ -2717,10 +2786,44 @@
   title: A New Kind of Science
   venue: Wolfram Media
   kind: book
-  topic: programs
+  topic: possibility
   cited_in:
   - opening-the-markov-blanket
+  - the-ruliad-and-the-spine
   sort: wolfram 2002 a new kind of science
+- key: wolfram2020class
+  authors:
+  - Wolfram, S.
+  year: 2020
+  title: A class of models with the potential to represent fundamental physics
+  venue: Complex Systems 29
+  kind: article
+  topic: possibility
+  cited_in:
+  - the-ruliad-and-the-spine
+  sort: 'wolfram 2020 a class of models with the potential to '
+- key: wolfram2023observer
+  authors:
+  - Wolfram, S.
+  year: 2023
+  title: Observer theory
+  venue: Stephen Wolfram Writings (essay)
+  kind: misc
+  topic: possibility
+  cited_in:
+  - the-ruliad-and-the-spine
+  sort: wolfram 2023 observer theory
+- key: wolfram2024computational
+  authors:
+  - Wolfram, S.
+  year: 2024
+  title: Computational foundations for the second law of thermodynamics
+  venue: Complex Systems 33, 133–252
+  kind: article
+  topic: possibility
+  cited_in:
+  - the-ruliad-and-the-spine
+  sort: wolfram 2024 computational foundations for the second
 - key: wortsman2022model
   authors:
   - Wortsman, M.
@@ -2786,6 +2889,40 @@
   cited_in:
   - copies-lineages-and-noise
   sort: 'zelikman 2022 star: bootstrapping reasoning with reaso'
+- key: zenil2018decomposition
+  authors:
+  - Zenil, H.
+  - Hernández-Orozco, S.
+  - Kiani, N. A.
+  - Soler-Toscano, F.
+  - Rueda-Toicen, A.
+  - Tegnér, J.
+  year: 2018
+  title: A decomposition method for global evaluation of Shannon entropy and local estimations of algorithmic complexity
+  venue: Entropy 20, 605
+  kind: article
+  topic: curiosity
+  cited_in:
+  - the-ruliad-and-the-spine
+  sort: zenil 2018 a decomposition method for global evalua
+- key: zenil2019algorithmic
+  authors:
+  - Zenil, H.
+  - Kiani, N. A.
+  - Marabita, F.
+  - Deng, Y.
+  - Elias, S.
+  - Schmidt, A.
+  - Ball, G.
+  - Tegnér, J.
+  year: 2019
+  title: An algorithmic information calculus for causal discovery and reprogramming systems
+  venue: iScience 19
+  kind: article
+  topic: curiosity
+  cited_in:
+  - the-ruliad-and-the-spine
+  sort: 'zenil 2019 an algorithmic information calculus for '
 - key: zhang2018tropical
   authors:
   - Zhang, L.

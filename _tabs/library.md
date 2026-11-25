@@ -1,5 +1,6 @@
 ---
 # Reference library: every paper cited across the posts' PDFs, grouped by topic.
+title: Library
 icon: fas fa-book
 order: 4
 toc: true

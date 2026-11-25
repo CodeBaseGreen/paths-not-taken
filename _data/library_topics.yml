@@ -13,6 +13,9 @@
 - id: programs
   name: Programs and program synthesis
   blurb: Programs as models, libraries of reusable parts, and reasoning about code.
+- id: possibility
+  name: Computation, possibility and observers
+  blurb: Multiway systems, bounded observers, and laws stated as what can and can't be done.
 - id: simulation
   name: Simulation, sampling and experiment design
   blurb: Replaying simulators, fixed scenarios, and choosing informative experiments.
