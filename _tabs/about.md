@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 **Paths Not Taken** is an archive of working notes on counterfactuals, irreversibility, curiosity and

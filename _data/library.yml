@@ -1,0 +1,2827 @@
+- key: aaronson2004quantum
+  authors:
+  - Aaronson, S.
+  - Shi, Y.
+  year: 2004
+  title: Quantum lower bounds for the collision and the element distinctness problems
+  venue: J. ACM 51, 595
+  kind: article
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: aaronson 2004 quantum lower bounds for the collision a
+- key: aaronson2014need
+  authors:
+  - Aaronson, S.
+  - Ambainis, A.
+  year: 2014
+  title: The need for structure in quantum speedups
+  venue: Theory of Computing 10, 133
+  kind: article
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: aaronson 2014 the need for structure in quantum speedu
+- key: abramsky2011sheaf
+  authors:
+  - Abramsky, S.
+  - Brandenburger, A.
+  year: 2011
+  title: The sheaf-theoretic structure of non-locality and contextuality
+  venue: New Journal of Physics 13, 113036
+  kind: article
+  topic: mathematics
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  sort: abramsky 2011 the sheaf-theoretic structure of non-loc
+- key: aghajanyan2021intrinsic
+  authors:
+  - Aghajanyan, A.
+  - Zettlemoyer, L.
+  - Gupta, S.
+  year: 2021
+  title: Intrinsic dimensionality explains the effectiveness of language model fine-tuning
+  venue: ACL
+  kind: inproceedings
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: aghajanyan 2021 intrinsic dimensionality explains the ef
+- key: ahmad2016neurons
+  authors:
+  - Ahmad, S.
+  - Hawkins, J.
+  year: 2016
+  title: How do neurons operate on sparse distributed representations? A mathematical theory of sparsity, neurons and active dendrites
+  venue: arXiv:1601.00720
+  kind: preprint
+  topic: representations
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  sort: ahmad 2016 how do neurons operate on sparse distrib
+- key: ainsworth2023git
+  authors:
+  - Ainsworth, S.
+  - Hayase, J.
+  - Srinivasa, S.
+  year: 2023
+  title: 'Git Re-Basin: Merging models modulo permutation symmetries'
+  venue: ICLR
+  kind: inproceedings
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: 'ainsworth 2023 git re-basin: merging models modulo perm'
+- key: alaghi2013survey
+  authors:
+  - Alaghi, A.
+  - Hayes, J. P.
+  year: 2013
+  title: Survey of stochastic computing
+  venue: ACM Trans. Embedded Computing Systems 12(2s)
+  kind: article
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: alaghi 2013 survey of stochastic computing
+- key: ameisen2025circuit
+  authors:
+  - Ameisen, E.
+  - Lindsey, J.
+  - others
+  year: 2025
+  title: 'Circuit tracing: revealing computational graphs in language models'
+  venue: Transformer Circuits Thread
+  kind: misc
+  topic: interpretability
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  sort: 'ameisen 2025 circuit tracing: revealing computational'
+- key: anschuetz2023interpretable
+  authors:
+  - Anschuetz, E. R.
+  - Hu, H.-Y.
+  - Huang, J.-L.
+  - Gao, X.
+  year: 2023
+  title: Interpretable quantum advantage in neural sequence learning
+  venue: PRX Quantum 4, 020338
+  kind: article
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: anschuetz 2023 interpretable quantum advantage in neura
+- key: anschuetz2024arbitrary
+  authors:
+  - Anschuetz, E. R.
+  - Gao, X.
+  year: 2024
+  title: Arbitrary polynomial separations in trainable quantum machine learning
+  venue: arXiv:2402.08606
+  kind: preprint
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: anschuetz 2024 arbitrary polynomial separations in trai
+- key: arunachalam2018optimal
+  authors:
+  - Arunachalam, S.
+  - de Wolf, R.
+  year: 2018
+  title: Optimal quantum sample complexity of learning algorithms
+  venue: J. Mach. Learn. Res. 19(71)
+  kind: article
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: arunachalam 2018 optimal quantum sample complexity of lea
+- key: assran2023self
+  authors:
+  - Assran, M.
+  - others
+  year: 2023
+  title: Self-supervised learning from images with a joint-embedding predictive architecture
+  venue: CVPR
+  kind: inproceedings
+  topic: learning
+  cited_in:
+  - the-research-path-forward
+  sort: assran 2023 self-supervised learning from images wit
+- key: attwell2001energy
+  authors:
+  - Attwell, D.
+  - Laughlin, S. B.
+  year: 2001
+  title: An energy budget for signaling in the grey matter of the brain
+  venue: J. Cereb. Blood Flow Metab. 21, 1133–1145
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: attwell 2001 an energy budget for signaling in the gr
+- key: babbush2021focus
+  authors:
+  - Babbush, R.
+  - others
+  year: 2021
+  title: Focus beyond quadratic speedups for error-corrected quantum advantage
+  venue: PRX Quantum 2, 010103
+  kind: article
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  - interference-not-parallelism
+  sort: babbush 2021 focus beyond quadratic speedups for erro
+- key: babbush2023exponential
+  authors:
+  - Babbush, R.
+  - Berry, D. W.
+  - Kothari, R.
+  - Somma, R. D.
+  - Wiebe, N.
+  year: 2023
+  title: Exponential quantum speedup in simulating coupled classical oscillators
+  venue: Phys. Rev. X 13, 041041
+  kind: article
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: babbush 2023 exponential quantum speedup in simulatin
+- key: balke1994probabilistic
+  authors:
+  - Balke, A.
+  - Pearl, J.
+  year: 1994
+  title: Probabilistic evaluation of counterfactual queries
+  venue: AAAI
+  kind: inproceedings
+  topic: causation
+  cited_in:
+  - qubits-for-causal-compression
+  sort: balke 1994 probabilistic evaluation of counterfactu
+- key: bareinboim2016causal
+  authors:
+  - Bareinboim, E.
+  - Pearl, J.
+  year: 2016
+  title: Causal inference and the data-fusion problem
+  venue: PNAS 113, 7345–7352
+  kind: article
+  topic: causation
+  cited_in:
+  - post-pearl
+  sort: bareinboim 2016 causal inference and the data-fusion pro
+- key: bareinboim2022pearls
+  authors:
+  - Bareinboim, E.
+  - Correa, J. D.
+  - Ibeling, D.
+  - Icard, T.
+  year: 2022
+  title: On Pearl's hierarchy and the foundations of causal inference
+  venue: 'In Probabilistic and Causal Inference: The Works of Judea Pearl, ACM'
+  kind: incollection
+  topic: causation
+  cited_in:
+  - post-pearl
+  sort: bareinboim 2022 on pearl's hierarchy and the foundations
+- key: bartlett1932remembering
+  authors:
+  - Bartlett, F. C.
+  year: 1932
+  title: Remembering
+  venue: Cambridge University Press
+  kind: book
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: bartlett 1932 remembering
+- key: bartol2015nanoconnectomic
+  authors:
+  - Bartol, T. M.
+  - others
+  year: 2015
+  title: Nanoconnectomic upper bound on the variability of synaptic plasticity
+  venue: eLife 4, e10778
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: bartol 2015 nanoconnectomic upper bound on the varia
+- key: baydin2019etalumis
+  authors:
+  - Baydin, A. G.
+  - others
+  year: 2019
+  title: 'Etalumis: bringing probabilistic programming to scientific simulators at scale'
+  venue: 'SC19: International Conference for High Performance Computing'
+  kind: inproceedings
+  topic: programs
+  cited_in:
+  - opening-the-markov-blanket
+  sort: 'baydin 2019 etalumis: bringing probabilistic program'
+- key: beckers2019abstracting
+  authors:
+  - Beckers, S.
+  - Halpern, J. Y.
+  year: 2019
+  title: Abstracting causal models
+  venue: AAAI
+  kind: inproceedings
+  topic: abstraction
+  cited_in:
+  - paths-not-taken
+  - interference-not-parallelism
+  sort: beckers 2019 abstracting causal models
+- key: beckers2019approximate
+  authors:
+  - Beckers, S.
+  - Eberhardt, F.
+  - Halpern, J. Y.
+  year: 2019
+  title: Approximate causal abstraction
+  venue: UAI
+  kind: inproceedings
+  topic: abstraction
+  cited_in:
+  - paths-not-taken
+  - opening-the-markov-blanket
+  sort: beckers 2019 approximate causal abstraction
+- key: behrens2018cognitive
+  authors:
+  - Behrens, T. E. J.
+  - others
+  year: 2018
+  title: What is a cognitive map? Organizing knowledge for flexible behavior
+  venue: Neuron 100, 490–509
+  kind: article
+  topic: representations
+  cited_in:
+  - paths-not-taken
+  sort: behrens 2018 what is a cognitive map? organizing know
+- key: benna2016computational
+  authors:
+  - Benna, M. K.
+  - Fusi, S.
+  year: 2016
+  title: Computational principles of synaptic memory consolidation
+  venue: Nature Neuroscience 19, 1697–1706
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: benna 2016 computational principles of synaptic mem
+- key: bennett1973logical
+  authors:
+  - Bennett, C. H.
+  year: 1973
+  title: Logical reversibility of computation
+  venue: IBM J. Res. Dev. 17, 525
+  kind: article
+  topic: irreversibility
+  cited_in:
+  - qubits-for-causal-compression
+  - interference-not-parallelism
+  sort: bennett 1973 logical reversibility of computation
+- key: bennett1997strengths
+  authors:
+  - Bennett, C. H.
+  - Bernstein, E.
+  - Brassard, G.
+  - Vazirani, U.
+  year: 1997
+  title: Strengths and weaknesses of quantum computing
+  venue: SIAM J. Comput. 26, 1510
+  kind: article
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: bennett 1997 strengths and weaknesses of quantum comp
+- key: boerlin2013predictive
+  authors:
+  - Boerlin, M.
+  - Machens, C. K.
+  - Denève, S.
+  year: 2013
+  title: Predictive coding of dynamical variables in balanced spiking networks
+  venue: PLoS Comput. Biol. 9, e1003258
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: boerlin 2013 predictive coding of dynamical variables
+- key: boyer1998tight
+  authors:
+  - Boyer, M.
+  - Brassard, G.
+  - Høyer, P.
+  - Tapp, A.
+  year: 1998
+  title: Tight bounds on quantum searching
+  venue: Fortschr. Phys. 46, 493
+  kind: article
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  sort: boyer 1998 tight bounds on quantum searching
+- key: bradley2022enriched
+  authors:
+  - Bradley, T.-D.
+  - Terilla, J.
+  - Vlassopoulos, Y.
+  year: 2022
+  title: 'An enriched category theory of language: from syntax to semantics'
+  venue: La Matematica 1, 551–580
+  kind: article
+  topic: mathematics
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  sort: 'bradley 2022 an enriched category theory of language:'
+- key: brassard1998quantum
+  authors:
+  - Brassard, G.
+  - Høyer, P.
+  - Tapp, A.
+  year: 1998
+  title: Quantum cryptanalysis of hash and claw-free functions
+  venue: LATIN
+  kind: inproceedings
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: brassard 1998 quantum cryptanalysis of hash and claw-f
+- key: brassard2002quantum
+  authors:
+  - Brassard, G.
+  - Høyer, P.
+  - Mosca, M.
+  - Tapp, A.
+  year: 2002
+  title: Quantum amplitude amplification and estimation
+  venue: Contemp. Math. 305
+  kind: article
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  - interference-not-parallelism
+  sort: brassard 2002 quantum amplitude amplification and esti
+- key: bricken2021attention
+  authors:
+  - Bricken, T.
+  - Pehlevan, C.
+  year: 2021
+  title: Attention approximates sparse distributed memory
+  venue: NeurIPS
+  kind: inproceedings
+  topic: representations
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  sort: bricken 2021 attention approximates sparse distribute
+- key: bruineberg2022emperors
+  authors:
+  - Bruineberg, J.
+  - Dołęga, K.
+  - Dewhurst, J.
+  - Baltieri, M.
+  year: 2022
+  title: The emperor’s new Markov blankets
+  venue: Behavioral and Brain Sciences 45, e183
+  kind: article
+  topic: free-energy
+  cited_in:
+  - opening-the-markov-blanket
+  sort: bruineberg 2022 the emperors new markov blankets
+- key: bshouty1999learning
+  authors:
+  - Bshouty, N. H.
+  - Jackson, J. C.
+  year: 1999
+  title: Learning DNF over the uniform distribution using a quantum example oracle
+  venue: SIAM J. Comput. 28, 1136
+  kind: article
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: bshouty 1999 learning dnf over the uniform distributi
+- key: budinski2021quantum
+  authors:
+  - Budinski, L.
+  year: 2021
+  title: Quantum algorithm for the Navier–Stokes equations by using the streamfunction-vorticity formulation and the lattice Boltzmann method
+  venue: arXiv:2103.03804
+  kind: preprint
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  sort: budinski 2021 quantum algorithm for the navierstokes e
+- key: buesing2011neural
+  authors:
+  - Buesing, L.
+  - Bill, J.
+  - Nessler, B.
+  - Maass, W.
+  year: 2011
+  title: Neural dynamics as sampling
+  venue: PLoS Comput. Biol. 7, e1002211
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: buesing 2011 neural dynamics as sampling
+- key: buesing2019woulda
+  authors:
+  - Buesing, L.
+  - others
+  year: 2019
+  title: 'Woulda, coulda, shoulda: counterfactually-guided policy search'
+  venue: ICLR
+  kind: inproceedings
+  topic: causation
+  cited_in:
+  - opening-the-markov-blanket
+  sort: 'buesing 2019 woulda, coulda, shoulda: counterfactuall'
+- key: buzsaki2014log
+  authors:
+  - Buzsáki, G.
+  - Mizuseki, K.
+  year: 2014
+  title: The log-dynamic brain
+  venue: Nature Reviews Neuroscience 15, 264–278
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: buzsaki 2014 the log-dynamic brain
+- key: cerezo2025does
+  authors:
+  - Cerezo, M.
+  - others
+  year: 2025
+  title: Does provable absence of barren plateaus imply classical simulability?
+  venue: Nature Communications 16, 7907
+  kind: article
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  sort: cerezo 2025 does provable absence of barren plateaus
+- key: chalupka2015visual
+  authors:
+  - Chalupka, K.
+  - Perona, P.
+  - Eberhardt, F.
+  year: 2015
+  title: Visual causal feature learning
+  venue: UAI
+  kind: inproceedings
+  topic: abstraction
+  cited_in:
+  - interference-not-parallelism
+  sort: chalupka 2015 visual causal feature learning
+- key: chalupka2016multi
+  authors:
+  - Chalupka, K.
+  - Perona, P.
+  - Eberhardt, F.
+  year: 2016
+  title: Multi-level cause-effect systems
+  venue: AISTATS
+  kind: inproceedings
+  topic: abstraction
+  cited_in:
+  - opening-the-markov-blanket
+  sort: chalupka 2016 multi-level cause-effect systems
+- key: chalupka2017causal
+  authors:
+  - Chalupka, K.
+  - Eberhardt, F.
+  - Perona, P.
+  year: 2017
+  title: 'Causal feature learning: an overview'
+  venue: Behaviormetrika 44, 137–164
+  kind: article
+  topic: abstraction
+  cited_in:
+  - opening-the-markov-blanket
+  - interference-not-parallelism
+  - the-research-path-forward
+  sort: 'chalupka 2017 causal feature learning: an overview'
+- key: chowdhery2022palm
+  authors:
+  - Chowdhery, A.
+  - others
+  year: 2022
+  title: 'PaLM: scaling language modeling with pathways'
+  venue: arXiv:2204.02311
+  kind: preprint
+  topic: interpretability
+  cited_in:
+  - paths-not-taken
+  sort: 'chowdhery 2022 palm: scaling language modeling with pat'
+- key: coecke2010mathematical
+  authors:
+  - Coecke, B.
+  - Sadrzadeh, M.
+  - Clark, S.
+  year: 2010
+  title: Mathematical foundations for a compositional distributional model of meaning
+  venue: Linguistic Analysis 36
+  kind: article
+  topic: mathematics
+  cited_in:
+  - paths-not-taken
+  sort: coecke 2010 mathematical foundations for a compositi
+- key: constantinescu2016organizing
+  authors:
+  - Constantinescu, A. O.
+  - O’Reilly, J. X.
+  - Behrens, T. E. J.
+  year: 2016
+  title: Organizing conceptual knowledge in humans with a gridlike code
+  venue: Science 352, 1464–1468
+  kind: article
+  topic: representations
+  cited_in:
+  - paths-not-taken
+  sort: constantinescu 2016 organizing conceptual knowledge in human
+- key: correa2024counterfactual
+  authors:
+  - Correa, J. D.
+  - Bareinboim, E.
+  year: 2024
+  title: 'Counterfactual graphical models: constraints and inference'
+  venue: Technical report R-115, Columbia CausalAI Laboratory
+  kind: techreport
+  topic: causation
+  cited_in:
+  - post-pearl
+  sort: 'correa 2024 counterfactual graphical models: constra'
+- key: cousot1977abstract
+  authors:
+  - Cousot, P.
+  - Cousot, R.
+  year: 1977
+  title: 'Abstract interpretation: a unified lattice model for static analysis of programs'
+  venue: POPL
+  kind: inproceedings
+  topic: programs
+  cited_in:
+  - opening-the-markov-blanket
+  - the-research-path-forward
+  sort: 'cousot 1977 abstract interpretation: a unified latti'
+- key: cranmer2020frontier
+  authors:
+  - Cranmer, K.
+  - Brehmer, J.
+  - Louppe, G.
+  year: 2020
+  title: The frontier of simulation-based inference
+  venue: PNAS 117, 30055–30062
+  kind: article
+  topic: simulation
+  cited_in:
+  - opening-the-markov-blanket
+  sort: cranmer 2020 the frontier of simulation-based inferen
+- key: cross2015quantum
+  authors:
+  - Cross, A. W.
+  - Smith, G.
+  - Smolin, J. A.
+  year: 2015
+  title: Quantum learning robust against noise
+  venue: Phys. Rev. A 92, 012327
+  kind: article
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: cross 2015 quantum learning robust against noise
+- key: deneve2016efficient
+  authors:
+  - Denève, S.
+  - Machens, C. K.
+  year: 2016
+  title: Efficient codes and balanced networks
+  venue: Nature Neuroscience 19, 375–382
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: deneve 2016 efficient codes and balanced networks
+- key: dettmers2022llm
+  authors:
+  - Dettmers, T.
+  - Lewis, M.
+  - Belkada, Y.
+  - Zettlemoyer, L.
+  year: 2022
+  title: 'LLM.int8(): 8-bit matrix multiplication for transformers at scale'
+  venue: NeurIPS
+  kind: inproceedings
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: 'dettmers 2022 llm.int8(): 8-bit matrix multiplication '
+- key: diehl2015fast
+  authors:
+  - Diehl, P. U.
+  - others
+  year: 2015
+  title: Fast-classifying, high-accuracy spiking deep networks through weight and threshold balancing
+  venue: IJCNN
+  kind: inproceedings
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: 'diehl 2015 fast-classifying, high-accuracy spiking '
+- key: dixit1994investment
+  authors:
+  - Dixit, A. K.
+  - Pindyck, R. S.
+  year: 1994
+  title: Investment under Uncertainty
+  venue: Princeton University Press
+  kind: book
+  topic: irreversibility
+  cited_in:
+  - paths-not-taken
+  sort: dixit 1994 investment under uncertainty
+- key: dohare2024loss
+  authors:
+  - Dohare, S.
+  - others
+  year: 2024
+  title: Loss of plasticity in deep continual learning
+  venue: Nature 632, 768–774
+  kind: article
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: dohare 2024 loss of plasticity in deep continual lea
+- key: doshi2024generative
+  authors:
+  - Doshi, A. R.
+  - Hauser, O. P.
+  year: 2024
+  title: Generative AI enhances individual creativity but reduces the collective diversity of novel content
+  venue: Science Advances 10, eadn5290
+  kind: article
+  topic: irreversibility
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  sort: doshi 2024 generative ai enhances individual creati
+- key: douillard2023diloco
+  authors:
+  - Douillard, A.
+  - others
+  year: 2023
+  title: 'DiLoCo: Distributed low-communication training of language models'
+  venue: arXiv:2311.08105
+  kind: preprint
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: 'douillard 2023 diloco: distributed low-communication tr'
+- key: driscoll2017dynamic
+  authors:
+  - Driscoll, L. N.
+  - Pettit, N. L.
+  - Minderer, M.
+  - Chettih, S. N.
+  - Harvey, C. D.
+  year: 2017
+  title: Dynamic reorganization of neuronal activity patterns in parietal cortex
+  venue: Cell 170, 986–999
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: driscoll 2017 dynamic reorganization of neuronal activ
+- key: dunjko2016quantum
+  authors:
+  - Dunjko, V.
+  - Taylor, J. M.
+  - Briegel, H. J.
+  year: 2016
+  title: Quantum-enhanced machine learning
+  venue: Phys. Rev. Lett. 117, 130501
+  kind: article
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  sort: dunjko 2016 quantum-enhanced machine learning
+- key: dunjko2017exponential
+  authors:
+  - Dunjko, V.
+  - Liu, Y.-K.
+  - Wu, X.
+  - Taylor, J. M.
+  year: 2017
+  title: Exponential improvements for quantum-accessible reinforcement learning
+  venue: arXiv:1710.11160
+  kind: preprint
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  sort: dunjko 2017 exponential improvements for quantum-acc
+- key: durr1996quantum
+  authors:
+  - Dürr, C.
+  - Høyer, P.
+  year: 1996
+  title: A quantum algorithm for finding the minimum
+  venue: arXiv:quant-ph/9607014
+  kind: preprint
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  - interference-not-parallelism
+  sort: durr 1996 a quantum algorithm for finding the mini
+- key: dwork2015reusable
+  authors:
+  - Dwork, C.
+  - Feldman, V.
+  - Hardt, M.
+  - Pitassi, T.
+  - Reingold, O.
+  - Roth, A.
+  year: 2015
+  title: 'The reusable holdout: preserving validity in adaptive data analysis'
+  venue: Science 349, 636–638
+  kind: article
+  topic: irreversibility
+  cited_in:
+  - paths-not-taken
+  - opening-the-markov-blanket
+  - thirty-papers-behind-the-discussion
+  - the-research-path-forward
+  sort: 'dwork 2015 the reusable holdout: preserving validit'
+- key: eberhardt2005number
+  authors:
+  - Eberhardt, F.
+  - Glymour, C.
+  - Scheines, R.
+  year: 2005
+  title: On the number of experiments sufficient and in the worst case necessary to identify all causal relations among N variables
+  venue: UAI
+  kind: inproceedings
+  topic: causation
+  cited_in:
+  - opening-the-markov-blanket
+  sort: 'eberhardt 2005 on the number of experiments sufficient '
+- key: ecoffet2021first
+  authors:
+  - Ecoffet, A.
+  - Huizinga, J.
+  - Lehman, J.
+  - Stanley, K. O.
+  - Clune, J.
+  year: 2021
+  title: First return, then explore
+  venue: Nature 590, 580–586
+  kind: article
+  topic: curiosity
+  cited_in:
+  - paths-not-taken
+  - opening-the-markov-blanket
+  - thirty-papers-behind-the-discussion
+  sort: ecoffet 2021 first return, then explore
+- key: edelman1987neural
+  authors:
+  - Edelman, G. M.
+  year: 1987
+  title: Neural Darwinism
+  venue: Basic Books
+  kind: book
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: edelman 1987 neural darwinism
+- key: elhage2022toy
+  authors:
+  - Elhage, N.
+  - others
+  year: 2022
+  title: Toy models of superposition
+  venue: Transformer Circuits Thread
+  kind: misc
+  topic: interpretability
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  sort: elhage 2022 toy models of superposition
+- key: elliott2022quantum
+  authors:
+  - Elliott, T. J.
+  - Gu, M.
+  - Garner, A. J. P.
+  - Thompson, J.
+  year: 2022
+  title: Quantum adaptive agents with efficient long-term memories
+  venue: Phys. Rev. X 12, 011007
+  kind: article
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: elliott 2022 quantum adaptive agents with efficient l
+- key: ellis2021dreamcoder
+  authors:
+  - Ellis, K.
+  - others
+  year: 2021
+  title: 'DreamCoder: bootstrapping inductive program synthesis with wake-sleep library learning'
+  venue: PLDI
+  kind: inproceedings
+  topic: programs
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  - the-research-path-forward
+  sort: 'ellis 2021 dreamcoder: bootstrapping inductive prog'
+- key: engels2024not
+  authors:
+  - Engels, J.
+  - Michaud, E. J.
+  - Liao, I.
+  - Gurnee, W.
+  - Tegmark, M.
+  year: 2024
+  title: Not all language model features are linear
+  venue: arXiv:2405.14860
+  kind: preprint
+  topic: interpretability
+  cited_in:
+  - paths-not-taken
+  sort: engels 2024 not all language model features are line
+- key: feng2024language
+  authors:
+  - Feng, J.
+  - Steinhardt, J.
+  year: 2024
+  title: How do language models bind entities in context?
+  venue: ICLR
+  kind: inproceedings
+  topic: interpretability
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  sort: 'feng 2024 how do language models bind entities in '
+- key: fernando2010neuronal
+  authors:
+  - Fernando, C.
+  - Goldstein, R.
+  - Szathmáry, E.
+  year: 2010
+  title: The neuronal replicator hypothesis
+  venue: Neural Computation 22, 2809–2857
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: fernando 2010 the neuronal replicator hypothesis
+- key: fields2022free
+  authors:
+  - Fields, C.
+  - Friston, K.
+  - Glazebrook, J. F.
+  - Levin, M.
+  year: 2022
+  title: A free energy principle for generic quantum systems
+  venue: arXiv:2112.15242
+  kind: preprint
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  sort: fields 2022 a free energy principle for generic quan
+- key: fiser2010statistically
+  authors:
+  - Fiser, J.
+  - Berkes, P.
+  - Orbán, G.
+  - Lengyel, M.
+  year: 2010
+  title: 'Statistically optimal perception and learning: from behavior to neural representations'
+  venue: Trends Cogn. Sci. 14, 119–130
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: fiser 2010 statistically optimal perception and lea
+- key: fisher1930genetical
+  authors:
+  - Fisher, R. A.
+  year: 1930
+  title: The Genetical Theory of Natural Selection
+  venue: Clarendon Press
+  kind: book
+  topic: evolution
+  cited_in:
+  - copies-lineages-and-noise
+  sort: fisher 1930 the genetical theory of natural selectio
+- key: forney2017counterfactual
+  authors:
+  - Forney, A.
+  - Pearl, J.
+  - Bareinboim, E.
+  year: 2017
+  title: Counterfactual data-fusion for online reinforcement learners
+  venue: ICML
+  kind: inproceedings
+  topic: causation
+  cited_in:
+  - post-pearl
+  sort: forney 2017 counterfactual data-fusion for online re
+- key: foster2019variational
+  authors:
+  - Foster, A.
+  - others
+  year: 2019
+  title: Variational Bayesian optimal experimental design
+  venue: NeurIPS
+  kind: inproceedings
+  topic: simulation
+  cited_in:
+  - opening-the-markov-blanket
+  sort: foster 2019 variational bayesian optimal experimenta
+- key: frankle2020linear
+  authors:
+  - Frankle, J.
+  - Dziugaite, G. K.
+  - Roy, D.
+  - Carbin, M.
+  year: 2020
+  title: Linear mode connectivity and the lottery ticket hypothesis
+  venue: ICML
+  kind: inproceedings
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: frankle 2020 linear mode connectivity and the lottery
+- key: friston2010free
+  authors:
+  - Friston, K.
+  year: 2010
+  title: 'The free-energy principle: a unified brain theory?'
+  venue: Nature Reviews Neuroscience 11, 127–138
+  kind: article
+  topic: free-energy
+  cited_in:
+  - paths-not-taken
+  - opening-the-markov-blanket
+  - thirty-papers-behind-the-discussion
+  sort: 'friston 2010 the free-energy principle: a unified bra'
+- key: friston2011post
+  authors:
+  - Friston, K.
+  - Penny, W.
+  year: 2011
+  title: Post hoc Bayesian model selection
+  venue: NeuroImage 56, 2089–2099
+  kind: article
+  topic: free-energy
+  cited_in:
+  - opening-the-markov-blanket
+  sort: friston 2011 post hoc bayesian model selection
+- key: friston2012free
+  authors:
+  - Friston, K.
+  - Thornton, C.
+  - Clark, A.
+  year: 2012
+  title: Free-energy minimization and the dark-room problem
+  venue: Frontiers in Psychology 3, 130
+  kind: article
+  topic: free-energy
+  cited_in:
+  - paths-not-taken
+  sort: friston 2012 free-energy minimization and the dark-ro
+- key: friston2017active
+  authors:
+  - Friston, K.
+  - FitzGerald, T.
+  - Rigoli, F.
+  - Schwartenbeck, P.
+  - Pezzulo, G.
+  year: 2017
+  title: 'Active inference: a process theory'
+  venue: Neural Computation 29, 1–49
+  kind: article
+  topic: free-energy
+  cited_in:
+  - opening-the-markov-blanket
+  sort: 'friston 2017 active inference: a process theory'
+- key: friston2018bayesian
+  authors:
+  - Friston, K.
+  - Parr, T.
+  - Zeidman, P.
+  year: 2018
+  title: Bayesian model reduction
+  venue: arXiv:1805.07092
+  kind: preprint
+  topic: free-energy
+  cited_in:
+  - opening-the-markov-blanket
+  sort: friston 2018 bayesian model reduction
+- key: friston2021parcels
+  authors:
+  - Friston, K.
+  - Fagerholm, E. D.
+  - Zarghami, T. S.
+  - others
+  year: 2021
+  title: 'Parcels and particles: Markov blankets in the brain'
+  venue: Network Neuroscience 5, 211–251
+  kind: article
+  topic: free-energy
+  cited_in:
+  - opening-the-markov-blanket
+  sort: 'friston 2021 parcels and particles: markov blankets i'
+- key: friston2021sophisticated
+  authors:
+  - Friston, K.
+  - Da Costa, L.
+  - Hafner, D.
+  - Hesp, C.
+  - Parr, T.
+  year: 2021
+  title: Sophisticated inference
+  venue: Neural Computation 33, 713–763
+  kind: article
+  topic: free-energy
+  cited_in:
+  - opening-the-markov-blanket
+  sort: friston 2021 sophisticated inference
+- key: fusi2005cascade
+  authors:
+  - Fusi, S.
+  - Drew, P. J.
+  - Abbott, L. F.
+  year: 2005
+  title: Cascade models of synaptically stored memories
+  venue: Neuron 45, 599–611
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: fusi 2005 cascade models of synaptically stored me
+- key: gaines1969stochastic
+  authors:
+  - Gaines, B. R.
+  year: 1969
+  title: Stochastic computing systems
+  venue: Advances in Information Systems Science 2, 37–172
+  kind: article
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: gaines 1969 stochastic computing systems
+- key: gavranovic2024position
+  authors:
+  - Gavranović, B.
+  - Lessard, P.
+  - Dudzik, A.
+  - von Glehn, T.
+  - Araújo, J. G. M.
+  - Veličković, P.
+  year: 2024
+  title: 'Position: categorical deep learning is an algebraic theory of all architectures'
+  venue: ICML
+  kind: inproceedings
+  topic: mathematics
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  sort: 'gavranovic 2024 position: categorical deep learning is a'
+- key: gayler2003vector
+  authors:
+  - Gayler, R. W.
+  year: 2003
+  title: Vector symbolic architectures answer Jackendoff’s challenges for cognitive neuroscience
+  venue: ICCS/ASCS Joint International Conference on Cognitive Science
+  kind: inproceedings
+  topic: representations
+  cited_in:
+  - paths-not-taken
+  sort: gayler 2003 vector symbolic architectures answer jac
+- key: geiger2021causal
+  authors:
+  - Geiger, A.
+  - Lu, H.
+  - Icard, T.
+  - Potts, C.
+  year: 2021
+  title: Causal abstractions of neural networks
+  venue: NeurIPS
+  kind: inproceedings
+  topic: abstraction
+  cited_in:
+  - paths-not-taken
+  - opening-the-markov-blanket
+  - interference-not-parallelism
+  - thirty-papers-behind-the-discussion
+  sort: geiger 2021 causal abstractions of neural networks
+- key: geiger2025causal
+  authors:
+  - Geiger, A.
+  - Ibeling, D.
+  - Zur, A.
+  - Chaudhary, M.
+  - Chauhan, S.
+  - Huang, J.
+  - Arora, A.
+  - Wu, Z.
+  - Goodman, N.
+  - Potts, C.
+  - Icard, T.
+  year: 2025
+  title: 'Causal abstraction: a theoretical foundation for mechanistic interpretability'
+  venue: Journal of Machine Learning Research 26
+  kind: article
+  topic: abstraction
+  cited_in:
+  - post-pearl
+  - interference-not-parallelism
+  sort: 'geiger 2025 causal abstraction: a theoretical founda'
+- key: gilliganlee2025quantum
+  authors:
+  - Gilligan-Lee, C. M.
+  - Yīng, Y.
+  - Richens, J.
+  - Schmid, D.
+  year: 2025
+  title: Quantum oracles give an advantage for identifying classical counterfactuals
+  venue: arXiv:2512.13692
+  kind: preprint
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  - interference-not-parallelism
+  sort: gilligan-lee 2025 quantum oracles give an advantage for id
+- key: glasserman2004monte
+  authors:
+  - Glasserman, P.
+  year: 2004
+  title: Monte Carlo Methods in Financial Engineering
+  venue: Springer
+  kind: book
+  topic: simulation
+  cited_in:
+  - opening-the-markov-blanket
+  sort: glasserman 2004 monte carlo methods in financial enginee
+- key: goel2026quantum
+  authors:
+  - Goel, R.
+  - Myers, C. R.
+  - Shrapnel, S.
+  year: 2026
+  title: Quantum algorithms for causal estimands
+  venue: Quantum Sci. Technol. 11
+  kind: article
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  sort: goel 2026 quantum algorithms for causal estimands
+- key: goldreich1989hard
+  authors:
+  - Goldreich, O.
+  - Levin, L.
+  year: 1989
+  title: A hard-core predicate for all one-way functions
+  venue: STOC
+  kind: inproceedings
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: goldreich 1989 a hard-core predicate for all one-way fu
+- key: gu2012quantum
+  authors:
+  - Gu, M.
+  - Wiesner, K.
+  - Rieper, E.
+  - Vedral, V.
+  year: 2012
+  title: Quantum mechanics can reduce the complexity of classical models
+  venue: Nature Communications 3, 762
+  kind: article
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: gu 2012 quantum mechanics can reduce the complex
+- key: guo2024quantum
+  authors:
+  - Guo, N.
+  - others
+  year: 2024
+  title: Quantum linear algebra is all you need for transformer architectures
+  venue: arXiv:2402.16714
+  kind: preprint
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: guo 2024 quantum linear algebra is all you need f
+- key: gupta2015deep
+  authors:
+  - Gupta, S.
+  - Agrawal, A.
+  - Gopalakrishnan, K.
+  - Narayanan, P.
+  year: 2015
+  title: Deep learning with limited numerical precision
+  venue: ICML
+  kind: inproceedings
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: gupta 2015 deep learning with limited numerical pre
+- key: hansen2001completely
+  authors:
+  - Hansen, N.
+  - Ostermeier, A.
+  year: 2001
+  title: Completely derandomized self-adaptation in evolution strategies
+  venue: Evolutionary Computation 9, 159–195
+  kind: article
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: 'hansen 2001 completely derandomized self-adaptation '
+- key: hawkins2019framework
+  authors:
+  - Hawkins, J.
+  - Lewis, M.
+  - Klukas, M.
+  - Purdy, S.
+  - Ahmad, S.
+  year: 2019
+  title: A framework for intelligence and cortical function based on grid cells in the neocortex
+  venue: Frontiers in Neural Circuits 12, 121
+  kind: article
+  topic: representations
+  cited_in:
+  - thirty-papers-behind-the-discussion
+  sort: hawkins 2019 a framework for intelligence and cortica
+- key: hawkins2021thousand
+  authors:
+  - Hawkins, J.
+  year: 2021
+  title: 'A Thousand Brains: A New Theory of Intelligence'
+  venue: Basic Books
+  kind: book
+  topic: representations
+  cited_in:
+  - paths-not-taken
+  sort: 'hawkins 2021 a thousand brains: a new theory of intel'
+- key: he2025defeating
+  authors:
+  - He, H.
+  - Thinking Machines Lab
+  year: 2025
+  title: Defeating nondeterminism in LLM inference
+  venue: 'Thinking Machines Lab: Connectionism (blog)'
+  kind: misc
+  topic: irreversibility
+  cited_in:
+  - copies-lineages-and-noise
+  sort: he 2025 defeating nondeterminism in llm inferenc
+- key: hinton1987learning
+  authors:
+  - Hinton, G. E.
+  - Nowlan, S. J.
+  year: 1987
+  title: How learning can guide evolution
+  venue: Complex Systems 1, 495–502
+  kind: article
+  topic: evolution
+  cited_in:
+  - copies-lineages-and-noise
+  sort: hinton 1987 how learning can guide evolution
+- key: hinton1993keeping
+  authors:
+  - Hinton, G. E.
+  - van Camp, D.
+  year: 1993
+  title: Keeping neural networks simple by minimizing the description length of the weights
+  venue: COLT
+  kind: inproceedings
+  topic: curiosity
+  cited_in:
+  - opening-the-markov-blanket
+  sort: hinton 1993 keeping neural networks simple by minimi
+- key: hinton2015distilling
+  authors:
+  - Hinton, G.
+  - Vinyals, O.
+  - Dean, J.
+  year: 2015
+  title: Distilling the knowledge in a neural network
+  venue: arXiv:1503.02531
+  kind: preprint
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: hinton 2015 distilling the knowledge in a neural net
+- key: hinton2022forward
+  authors:
+  - Hinton, G.
+  year: 2022
+  title: 'The forward-forward algorithm: some preliminary investigations'
+  venue: arXiv:2212.13345
+  kind: preprint
+  topic: learning
+  cited_in:
+  - paths-not-taken
+  - copies-lineages-and-noise
+  - thirty-papers-behind-the-discussion
+  sort: 'hinton 2022 the forward-forward algorithm: some prel'
+- key: hobson2012waking
+  authors:
+  - Hobson, J. A.
+  - Friston, K. J.
+  year: 2012
+  title: 'Waking and dreaming consciousness: neurobiological and functional considerations'
+  venue: Progress in Neurobiology 98, 82–98
+  kind: article
+  topic: free-energy
+  cited_in:
+  - opening-the-markov-blanket
+  sort: 'hobson 2012 waking and dreaming consciousness: neuro'
+- key: hoel2013quantifying
+  authors:
+  - Hoel, E. P.
+  - Albantakis, L.
+  - Tononi, G.
+  year: 2013
+  title: Quantifying causal emergence shows that macro can beat micro
+  venue: PNAS 110, 19790–19795
+  kind: article
+  topic: abstraction
+  cited_in:
+  - opening-the-markov-blanket
+  - the-research-path-forward
+  sort: 'hoel 2013 quantifying causal emergence shows that '
+- key: hopfield1974kinetic
+  authors:
+  - Hopfield, J. J.
+  year: 1974
+  title: 'Kinetic proofreading: a new mechanism for reducing errors in biosynthetic processes requiring high specificity'
+  venue: PNAS 71, 4135–4139
+  kind: article
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: 'hopfield 1974 kinetic proofreading: a new mechanism fo'
+- key: hopfield1982neural
+  authors:
+  - Hopfield, J. J.
+  year: 1982
+  title: Neural networks and physical systems with emergent collective computational abilities
+  venue: PNAS 79, 2554–2558
+  kind: article
+  topic: representations
+  cited_in:
+  - copies-lineages-and-noise
+  sort: hopfield 1982 neural networks and physical systems wit
+- key: horowitz2014computings
+  authors:
+  - Horowitz, M.
+  year: 2014
+  title: Computing’s energy problem (and what we can do about it)
+  venue: IEEE ISSCC, 10–14
+  kind: inproceedings
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: horowitz 2014 computings energy problem (and what we c
+- key: hoyer2003interpreting
+  authors:
+  - Hoyer, P. O.
+  - Hyvärinen, A.
+  year: 2003
+  title: Interpreting neural response variability as Monte Carlo sampling of the posterior
+  venue: NIPS
+  kind: inproceedings
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: hoyer 2003 interpreting neural response variability
+- key: hu2020difftaichi
+  authors:
+  - Hu, Y.
+  - others
+  year: 2020
+  title: 'DiffTaichi: differentiable programming for physical simulation'
+  venue: ICLR
+  kind: inproceedings
+  topic: simulation
+  cited_in:
+  - opening-the-markov-blanket
+  sort: 'hu 2020 difftaichi: differentiable programming f'
+- key: huang2021power
+  authors:
+  - Huang, H.-Y.
+  - others
+  year: 2021
+  title: Power of data in quantum machine learning
+  venue: Nature Communications 12, 2631
+  kind: article
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: huang 2021 power of data in quantum machine learnin
+- key: hyperes2026
+  authors: []
+  year: 2026
+  title: 'Hyper-ES: effective evolution strategies for LLM reasoning via descent direction merging'
+  venue: arXiv:2608.05541
+  kind: preprint
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: 'hyper-es: effective evolution strategies for llm reasoning via descent direction merging 2026 hyper-es: effective evolution strategies'
+- key: ibeling2020probabilistic
+  authors:
+  - Ibeling, D.
+  - Icard, T.
+  year: 2020
+  title: Probabilistic reasoning across the causal hierarchy
+  venue: AAAI
+  kind: inproceedings
+  topic: causation
+  cited_in:
+  - post-pearl
+  sort: ibeling 2020 probabilistic reasoning across the causa
+- key: ibeling2021topological
+  authors:
+  - Ibeling, D.
+  - Icard, T.
+  year: 2021
+  title: A topological perspective on causal inference
+  venue: NeurIPS
+  kind: inproceedings
+  topic: causation
+  cited_in:
+  - post-pearl
+  sort: ibeling 2021 a topological perspective on causal infe
+- key: jablonka2005evolution
+  authors:
+  - Jablonka, E.
+  - Lamb, M. J.
+  year: 2005
+  title: Evolution in Four Dimensions
+  venue: MIT Press
+  kind: book
+  topic: evolution
+  cited_in:
+  - paths-not-taken
+  sort: jablonka 2005 evolution in four dimensions
+- key: jaderberg2017population
+  authors:
+  - Jaderberg, M.
+  - others
+  year: 2017
+  title: Population based training of neural networks
+  venue: arXiv:1711.09846
+  kind: preprint
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: jaderberg 2017 population based training of neural netw
+- key: janzing2010causal
+  authors:
+  - Janzing, D.
+  - Schölkopf, B.
+  year: 2010
+  title: Causal inference using the algorithmic Markov condition
+  venue: IEEE Trans. Information Theory 56, 5168–5194
+  kind: article
+  topic: causation
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  sort: janzing 2010 causal inference using the algorithmic m
+- key: jordan2025optimization
+  authors:
+  - Jordan, S. P.
+  - others
+  year: 2025
+  title: Optimization by decoded quantum interferometry
+  venue: Nature 646, 831
+  kind: article
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: jordan 2025 optimization by decoded quantum interfer
+- key: kanerva2009hyperdimensional
+  authors:
+  - Kanerva, P.
+  year: 2009
+  title: 'Hyperdimensional computing: an introduction to computing in distributed representation with high-dimensional random vectors'
+  venue: Cognitive Computation 1, 139–159
+  kind: article
+  topic: representations
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  sort: 'kanerva 2009 hyperdimensional computing: an introduct'
+- key: kappel2015network
+  authors:
+  - Kappel, D.
+  - Habenschuss, S.
+  - Legenstein, R.
+  - Maass, W.
+  year: 2015
+  title: Network plasticity as Bayesian inference
+  venue: PLoS Comput. Biol. 11, e1004485
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: kappel 2015 network plasticity as bayesian inference
+- key: kashtan2005spontaneous
+  authors:
+  - Kashtan, N.
+  - Alon, U.
+  year: 2005
+  title: Spontaneous evolution of modularity and network motifs
+  venue: PNAS 102, 13773–13778
+  kind: article
+  topic: evolution
+  cited_in:
+  - paths-not-taken
+  - opening-the-markov-blanket
+  - thirty-papers-behind-the-discussion
+  sort: 'kashtan 2005 spontaneous evolution of modularity and '
+- key: kimura1968evolutionary
+  authors:
+  - Kimura, M.
+  year: 1968
+  title: Evolutionary rate at the molecular level
+  venue: Nature 217, 624–626
+  kind: article
+  topic: evolution
+  cited_in:
+  - copies-lineages-and-noise
+  sort: kimura 1968 evolutionary rate at the molecular level
+- key: kingma2014auto
+  authors:
+  - Kingma, D. P.
+  - Welling, M.
+  year: 2014
+  title: Auto-encoding variational Bayes
+  venue: ICLR
+  kind: inproceedings
+  topic: simulation
+  cited_in:
+  - opening-the-markov-blanket
+  sort: kingma 2014 auto-encoding variational bayes
+- key: kirby2008cumulative
+  authors:
+  - Kirby, S.
+  - Cornish, H.
+  - Smith, K.
+  year: 2008
+  title: Cumulative cultural evolution in the laboratory
+  venue: PNAS 105, 10681–10686
+  kind: article
+  topic: evolution
+  cited_in:
+  - copies-lineages-and-noise
+  sort: kirby 2008 cumulative cultural evolution in the lab
+- key: kirk2024understanding
+  authors:
+  - Kirk, R.
+  - others
+  year: 2024
+  title: Understanding the effects of RLHF on LLM generalisation and diversity
+  venue: ICLR
+  kind: inproceedings
+  topic: irreversibility
+  cited_in:
+  - copies-lineages-and-noise
+  sort: kirk 2024 understanding the effects of rlhf on llm
+- key: kitaev1995quantum
+  authors:
+  - Kitaev, A.
+  year: 1995
+  title: Quantum measurements and the abelian stabilizer problem
+  venue: arXiv:quant-ph/9511026
+  kind: preprint
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: kitaev 1995 quantum measurements and the abelian sta
+- key: kushilevitz1993learning
+  authors:
+  - Kushilevitz, E.
+  - Mansour, Y.
+  year: 1993
+  title: Learning decision trees using the Fourier spectrum
+  venue: SIAM J. Comput. 22, 1331
+  kind: article
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: kushilevitz 1993 learning decision trees using the fourie
+- key: lambert2024tulu
+  authors:
+  - Lambert, N.
+  - others
+  year: 2024
+  title: 'Tülu 3: pushing frontiers in open language model post-training'
+  venue: arXiv:2411.15124
+  kind: preprint
+  topic: interpretability
+  cited_in:
+  - paths-not-taken
+  sort: 'lambert 2024 tulu 3: pushing frontiers in open langua'
+- key: landauer1961irreversibility
+  authors:
+  - Landauer, R.
+  year: 1961
+  title: Irreversibility and heat generation in the computing process
+  venue: IBM J. Res. Dev. 5, 183–191
+  kind: article
+  topic: irreversibility
+  cited_in:
+  - copies-lineages-and-noise
+  sort: landauer 1961 irreversibility and heat generation in t
+- key: lande1979quantitative
+  authors:
+  - Lande, R.
+  year: 1979
+  title: Quantitative genetic analysis of multivariate evolution, applied to brain:body size allometry
+  venue: Evolution 33, 402–416
+  kind: article
+  topic: evolution
+  cited_in:
+  - copies-lineages-and-noise
+  sort: lande 1979 quantitative genetic analysis of multiva
+- key: layden2023quantum
+  authors:
+  - Layden, D.
+  - others
+  year: 2023
+  title: Quantum-enhanced Markov chain Monte Carlo
+  venue: Nature 619, 282
+  kind: article
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  sort: layden 2023 quantum-enhanced markov chain monte carl
+- key: le2017inference
+  authors:
+  - Le, T. A.
+  - Baydin, A. G.
+  - Wood, F.
+  year: 2017
+  title: Inference compilation and universal probabilistic programming
+  venue: AISTATS
+  kind: inproceedings
+  topic: programs
+  cited_in:
+  - opening-the-markov-blanket
+  sort: le 2017 inference compilation and universal prob
+- key: lecun2022path
+  authors:
+  - LeCun, Y.
+  year: 2022
+  title: A path towards autonomous machine intelligence
+  venue: OpenReview preprint
+  kind: preprint
+  topic: learning
+  cited_in:
+  - the-research-path-forward
+  sort: lecun 2022 a path towards autonomous machine intell
+- key: lehman2020surprising
+  authors:
+  - Lehman, J.
+  - others
+  year: 2020
+  title: The surprising creativity of digital evolution
+  venue: Artificial Life 26, 274–306
+  kind: article
+  topic: curiosity
+  cited_in:
+  - opening-the-markov-blanket
+  sort: lehman 2020 the surprising creativity of digital evo
+- key: lindsey2025biology
+  authors:
+  - Lindsey, J.
+  - others
+  year: 2025
+  title: On the biology of a large language model
+  venue: Transformer Circuits Thread
+  kind: misc
+  topic: interpretability
+  cited_in:
+  - paths-not-taken
+  sort: lindsey 2025 on the biology of a large language model
+- key: liu2024towards
+  authors:
+  - Liu, J.
+  - others
+  year: 2024
+  title: Towards provably efficient quantum algorithms for large-scale machine-learning models
+  venue: Nature Communications 15, 434
+  kind: article
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: liu 2024 towards provably efficient quantum algor
+- key: livnat2008mixability
+  authors:
+  - Livnat, A.
+  - Papadimitriou, C.
+  - Dushoff, J.
+  - Feldman, M. W.
+  year: 2008
+  title: A mixability theory for the role of sex in evolution
+  venue: PNAS 105, 19803–19808
+  kind: article
+  topic: evolution
+  cited_in:
+  - copies-lineages-and-noise
+  sort: 'livnat 2008 a mixability theory for the role of sex '
+- key: low2014quantum
+  authors:
+  - Low, G. H.
+  - Yoder, T. J.
+  - Chuang, I. L.
+  year: 2014
+  title: Quantum inference on Bayesian networks
+  venue: Phys. Rev. A 89, 062315
+  kind: article
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  - interference-not-parallelism
+  sort: low 2014 quantum inference on bayesian networks
+- key: ma2024era
+  authors:
+  - Ma, S.
+  - others
+  year: 2024
+  title: 'The era of 1-bit LLMs: all large language models are in 1.58 bits'
+  venue: arXiv:2402.17764
+  kind: preprint
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: 'ma 2024 the era of 1-bit llms: all large languag'
+- key: maass1998effect
+  authors:
+  - Maass, W.
+  - Orponen, P.
+  year: 1998
+  title: On the effect of analog noise in discrete-time analog computations
+  venue: Neural Computation 10, 1071–1095
+  kind: article
+  topic: brains
+  cited_in:
+  - paths-not-taken
+  sort: maass 1998 on the effect of analog noise in discret
+- key: mackay2003information
+  authors:
+  - MacKay, D. J. C.
+  year: 2003
+  title: Information Theory, Inference, and Learning Algorithms
+  venue: Cambridge University Press
+  kind: book
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: mackay 2003 information theory, inference, and learn
+- key: maclaurin2015gradient
+  authors:
+  - Maclaurin, D.
+  - Duvenaud, D.
+  - Adams, R. P.
+  year: 2015
+  title: Gradient-based hyperparameter optimization through reversible learning
+  venue: ICML
+  kind: inproceedings
+  topic: irreversibility
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  sort: maclaurin 2015 gradient-based hyperparameter optimizati
+- key: mcmahan2017communication
+  authors:
+  - McMahan, B.
+  - others
+  year: 2017
+  title: Communication-efficient learning of deep networks from decentralized data
+  venue: AISTATS
+  kind: inproceedings
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: mcmahan 2017 communication-efficient learning of deep
+- key: micikevicius2018mixed
+  authors:
+  - Micikevicius, P.
+  - others
+  year: 2018
+  title: Mixed precision training
+  venue: ICLR
+  kind: inproceedings
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: micikevicius 2018 mixed precision training
+- key: mohamed2020monte
+  authors:
+  - Mohamed, S.
+  - Rosca, M.
+  - Figurnov, M.
+  - Mnih, A.
+  year: 2020
+  title: Monte Carlo gradient estimation in machine learning
+  venue: JMLR 21, 1–62
+  kind: article
+  topic: simulation
+  cited_in:
+  - opening-the-markov-blanket
+  sort: mohamed 2020 monte carlo gradient estimation in machi
+- key: montanaro2015quantum
+  authors:
+  - Montanaro, A.
+  year: 2015
+  title: Quantum speedup of Monte Carlo methods
+  venue: Proc. R. Soc. A 471, 20150301
+  kind: article
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  - interference-not-parallelism
+  sort: montanaro 2015 quantum speedup of monte carlo methods
+- key: montanaro2018quantum
+  authors:
+  - Montanaro, A.
+  year: 2018
+  title: Quantum-walk speedup of backtracking algorithms
+  venue: Theory of Computing 14(15)
+  kind: article
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  - interference-not-parallelism
+  sort: montanaro 2018 quantum-walk speedup of backtracking alg
+- key: mordvintsev2020growing
+  authors:
+  - Mordvintsev, A.
+  - Randazzo, E.
+  - Niklasson, E.
+  - Levin, M.
+  year: 2020
+  title: Growing neural cellular automata
+  venue: Distill
+  kind: misc
+  topic: evolution
+  cited_in:
+  - paths-not-taken
+  sort: mordvintsev 2020 growing neural cellular automata
+- key: morenobote2014information
+  authors:
+  - Moreno-Bote, R.
+  - others
+  year: 2014
+  title: Information-limiting correlations
+  venue: Nature Neuroscience 17, 1410–1417
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: moreno-bote 2014 information-limiting correlations
+- key: nader2000fear
+  authors:
+  - Nader, K.
+  - Schafe, G. E.
+  - LeDoux, J. E.
+  year: 2000
+  title: Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval
+  venue: Nature 406, 722–726
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: 'nader 2000 fear memories require protein synthesis '
+- key: nanda2023progress
+  authors:
+  - Nanda, N.
+  - Chan, L.
+  - Lieberum, T.
+  - Smith, J.
+  - Steinhardt, J.
+  year: 2023
+  title: Progress measures for grokking via mechanistic interpretability
+  venue: ICLR
+  kind: inproceedings
+  topic: interpretability
+  cited_in:
+  - interference-not-parallelism
+  sort: nanda 2023 progress measures for grokking via mecha
+- key: vonneumann1956probabilistic
+  authors:
+  - von Neumann, J.
+  year: 1956
+  title: Probabilistic logics and the synthesis of reliable organisms from unreliable components
+  venue: In Automata Studies, Princeton University Press
+  kind: book
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: neumann 1956 probabilistic logics and the synthesis o
+- key: ng2000pegasus
+  authors:
+  - Ng, A. Y.
+  - Jordan, M. I.
+  year: 2000
+  title: 'PEGASUS: a policy search method for large MDPs and POMDPs'
+  venue: UAI
+  kind: inproceedings
+  topic: simulation
+  cited_in:
+  - opening-the-markov-blanket
+  - the-research-path-forward
+  sort: 'ng 2000 pegasus: a policy search method for larg'
+- key: ogorman2015bayesian
+  authors:
+  - O'Gorman, B.
+  - others
+  year: 2015
+  title: Bayesian network structure learning using quantum annealing
+  venue: Eur. Phys. J. Spec. Top. 224, 163
+  kind: article
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  sort: o'gorman 2015 bayesian network structure learning usin
+- key: oneill2001grammatical
+  authors:
+  - O'Neill, M.
+  - Ryan, C.
+  year: 2001
+  title: Grammatical evolution
+  venue: IEEE Transactions on Evolutionary Computation 5, 349–358
+  kind: article
+  topic: programs
+  cited_in:
+  - the-research-path-forward
+  sort: o'neill 2001 grammatical evolution
+- key: odlingsmee2003niche
+  authors:
+  - Odling-Smee, F. J.
+  - Laland, K. N.
+  - Feldman, M. W.
+  year: 2003
+  title: 'Niche Construction: The Neglected Process in Evolution'
+  venue: Princeton University Press
+  kind: book
+  topic: evolution
+  cited_in:
+  - paths-not-taken
+  sort: 'odling-smee 2003 niche construction: the neglected proces'
+- key: orfi2024bounding
+  authors:
+  - Orfi, A.
+  - Sels, D.
+  year: 2024
+  title: Bounding speedup of quantum-enhanced Markov chain Monte Carlo
+  venue: arXiv:2403.03087
+  kind: preprint
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  sort: orfi 2024 bounding speedup of quantum-enhanced mar
+- key: oudeyer2007intrinsic
+  authors:
+  - Oudeyer, P.-Y.
+  - Kaplan, F.
+  - Hafner, V. V.
+  year: 2007
+  title: Intrinsic motivation systems for autonomous mental development
+  venue: IEEE Trans. Evolutionary Computation 11, 265–286
+  kind: article
+  topic: curiosity
+  cited_in:
+  - paths-not-taken
+  sort: oudeyer 2007 intrinsic motivation systems for autonom
+- key: papadimitriou2020brain
+  authors:
+  - Papadimitriou, C. H.
+  - Vempala, S. S.
+  - Mitropolsky, D.
+  - Collins, M.
+  - Maass, W.
+  year: 2020
+  title: Brain computation by assemblies of neurons
+  venue: PNAS 117, 14464–14472
+  kind: article
+  topic: representations
+  cited_in:
+  - paths-not-taken
+  sort: papadimitriou 2020 brain computation by assemblies of neuro
+- key: park2024linear
+  authors:
+  - Park, K.
+  - Choe, Y. J.
+  - Veitch, V.
+  year: 2024
+  title: The linear representation hypothesis and the geometry of large language models
+  venue: ICML
+  kind: inproceedings
+  topic: interpretability
+  cited_in:
+  - interference-not-parallelism
+  sort: park 2024 the linear representation hypothesis and
+- key: pearl2009causality
+  authors:
+  - Pearl, J.
+  year: 2009
+  title: 'Causality: Models, Reasoning, and Inference (2nd ed.)'
+  venue: Cambridge University Press
+  kind: book
+  topic: causation
+  cited_in:
+  - paths-not-taken
+  - qubits-for-causal-compression
+  sort: 'pearl 2009 causality: models, reasoning, and infere'
+- key: pearl2014external
+  authors:
+  - Pearl, J.
+  - Bareinboim, E.
+  year: 2014
+  title: 'External validity: from do-calculus to transportability across populations'
+  venue: Statistical Science 29, 579–595
+  kind: article
+  topic: causation
+  cited_in:
+  - post-pearl
+  sort: 'pearl 2014 external validity: from do-calculus to t'
+- key: pearl2019seven
+  authors:
+  - Pearl, J.
+  year: 2019
+  title: The seven tools of causal inference, with reflections on machine learning
+  venue: Communications of the ACM 62(3), 54–60
+  kind: article
+  topic: causation
+  cited_in:
+  - thirty-papers-behind-the-discussion
+  sort: pearl 2019 the seven tools of causal inference, wit
+- key: perov2020multiverse
+  authors:
+  - Perov, Y.
+  - others
+  year: 2020
+  title: 'MultiVerse: causal reasoning using importance sampling in probabilistic programming'
+  venue: Symposium on Advances in Approximate Bayesian Inference, PMLR 118
+  kind: inproceedings
+  topic: causation
+  cited_in:
+  - opening-the-markov-blanket
+  sort: 'perov 2020 multiverse: causal reasoning using impor'
+- key: peters2016causal
+  authors:
+  - Peters, J.
+  - Bühlmann, P.
+  - Meinshausen, N.
+  year: 2016
+  title: 'Causal inference by using invariant prediction: identification and confidence intervals'
+  venue: J. Royal Statistical Society B 78, 947–1012
+  kind: article
+  topic: causation
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  sort: peters 2016 causal inference by using invariant pred
+- key: plate1995holographic
+  authors:
+  - Plate, T. A.
+  year: 1995
+  title: Holographic reduced representations
+  venue: IEEE Trans. Neural Networks 6, 623–641
+  kind: article
+  topic: representations
+  cited_in:
+  - paths-not-taken
+  sort: plate 1995 holographic reduced representations
+- key: price1970selection
+  authors:
+  - Price, G. R.
+  year: 1970
+  title: Selection and covariance
+  venue: Nature 227, 520–521
+  kind: article
+  topic: evolution
+  cited_in:
+  - copies-lineages-and-noise
+  sort: price 1970 selection and covariance
+- key: qiu2025evolution
+  authors:
+  - Qiu, X.
+  - Gan, Y.
+  - Hayes, C. F.
+  - Liang, Q.
+  - Meyerson, E.
+  - Hodjat, B.
+  - Miikkulainen, R.
+  year: 2025
+  title: 'Evolution strategies at scale: LLM fine-tuning beyond reinforcement learning'
+  venue: arXiv:2509.24372 (ICML 2026)
+  kind: preprint
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  - thirty-papers-behind-the-discussion
+  sort: 'qiu 2025 evolution strategies at scale: llm fine-'
+- key: rainforth2018nesting
+  authors:
+  - Rainforth, T.
+  - Cornish, R.
+  - Yang, H.
+  - Warrington, A.
+  - Wood, F.
+  year: 2018
+  title: On nesting Monte Carlo estimators
+  venue: ICML
+  kind: inproceedings
+  topic: simulation
+  cited_in:
+  - opening-the-markov-blanket
+  sort: rainforth 2018 on nesting monte carlo estimators
+- key: ramsauer2021hopfield
+  authors:
+  - Ramsauer, H.
+  - others
+  year: 2021
+  title: Hopfield networks is all you need
+  venue: ICLR
+  kind: inproceedings
+  topic: representations
+  cited_in:
+  - copies-lineages-and-noise
+  sort: ramsauer 2021 hopfield networks is all you need
+- key: ried2015quantum
+  authors:
+  - Ried, K.
+  - others
+  year: 2015
+  title: A quantum advantage for inferring causal structure
+  venue: Nature Physics 11, 414
+  kind: article
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  sort: ried 2015 a quantum advantage for inferring causal
+- key: rubenstein2017causal
+  authors:
+  - Rubenstein, P. K.
+  - others
+  year: 2017
+  title: Causal consistency of structural equation models
+  venue: UAI
+  kind: inproceedings
+  topic: abstraction
+  cited_in:
+  - interference-not-parallelism
+  sort: rubenstein 2017 causal consistency of structural equatio
+- key: rubinstein2004cross
+  authors:
+  - Rubinstein, R. Y.
+  - Kroese, D. P.
+  year: 2004
+  title: The Cross-Entropy Method
+  venue: Springer
+  kind: book
+  topic: simulation
+  cited_in:
+  - opening-the-markov-blanket
+  sort: rubinstein 2004 the cross-entropy method
+- key: rueckauer2017conversion
+  authors:
+  - Rueckauer, B.
+  - others
+  year: 2017
+  title: Conversion of continuous-valued deep networks to efficient event-driven networks for image classification
+  venue: Frontiers in Neuroscience 11, 682
+  kind: article
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: rueckauer 2017 conversion of continuous-valued deep net
+- key: rule2019causes
+  authors:
+  - Rule, M. E.
+  - O’Leary, T.
+  - Harvey, C. D.
+  year: 2019
+  title: Causes and consequences of representational drift
+  venue: Curr. Opin. Neurobiol. 58, 141–147
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: rule 2019 causes and consequences of representatio
+- key: rule2020stable
+  authors:
+  - Rule, M. E.
+  - others
+  year: 2020
+  title: Stable task information from an unstable neural population
+  venue: eLife 9, e51121
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: rule 2020 stable task information from an unstable
+- key: salimans2017evolution
+  authors:
+  - Salimans, T.
+  - Ho, J.
+  - Chen, X.
+  - Sidor, S.
+  - Sutskever, I.
+  year: 2017
+  title: Evolution strategies as a scalable alternative to reinforcement learning
+  venue: arXiv:1703.03864
+  kind: preprint
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: salimans 2017 evolution strategies as a scalable alter
+- key: schlag2019enhancing
+  authors:
+  - Schlag, I.
+  - Smolensky, P.
+  - Fernandez, R.
+  - Jojic, N.
+  - Schmidhuber, J.
+  - Gao, J.
+  year: 2019
+  title: Enhancing the transformer with explicit relational encoding for math problem solving
+  venue: arXiv:1910.06611
+  kind: preprint
+  topic: representations
+  cited_in:
+  - paths-not-taken
+  sort: 'schlag 2019 enhancing the transformer with explicit '
+- key: schmidhuber2009driven
+  authors:
+  - Schmidhuber, J.
+  year: 2009
+  title: 'Driven by compression progress: a simple principle explains essential aspects of subjective beauty, novelty, surprise, interestingness, attention, curiosity, creativity, art, science, music, jokes'
+  venue: arXiv:0812.4360
+  kind: preprint
+  topic: curiosity
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  sort: 'schmidhuber 2009 driven by compression progress: a simple'
+- key: schmidhuber2010formal
+  authors:
+  - Schmidhuber, J.
+  year: 2010
+  title: Formal theory of creativity, fun, and intrinsic motivation (1990–2010)
+  venue: IEEE Trans. Autonomous Mental Development 2, 230–247
+  kind: article
+  topic: curiosity
+  cited_in:
+  - paths-not-taken
+  - opening-the-markov-blanket
+  sort: schmidhuber 2010 formal theory of creativity, fun, and in
+- key: scholkopf2021toward
+  authors:
+  - Schölkopf, B.
+  - Locatello, F.
+  - Bauer, S.
+  - Ke, N. R.
+  - Kalchbrenner, N.
+  - Goyal, A.
+  - Bengio, Y.
+  year: 2021
+  title: Toward causal representation learning
+  venue: Proceedings of the IEEE 109, 612–634
+  kind: article
+  topic: causation
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  sort: scholkopf 2021 toward causal representation learning
+- key: seung2003learning
+  authors:
+  - Seung, H. S.
+  year: 2003
+  title: Learning in spiking neural networks by reinforcement of stochastic synaptic transmission
+  venue: Neuron 40, 1063–1073
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: seung 2003 learning in spiking neural networks by r
+- key: shadlen1998variable
+  authors:
+  - Shadlen, M. N.
+  - Newsome, W. T.
+  year: 1998
+  title: The variable discharge of cortical neurons
+  venue: J. Neurosci. 18, 3870–3896
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: shadlen 1998 the variable discharge of cortical neuro
+- key: shapiro2009lectures
+  authors:
+  - Shapiro, A.
+  - Dentcheva, D.
+  - Ruszczyński, A.
+  year: 2009
+  title: Lectures on Stochastic Programming
+  venue: SIAM
+  kind: book
+  topic: simulation
+  cited_in:
+  - opening-the-markov-blanket
+  sort: shapiro 2009 lectures on stochastic programming
+- key: shinomoto2009relating
+  authors:
+  - Shinomoto, S.
+  - others
+  year: 2009
+  title: Relating neuronal firing patterns to functional differentiation of cerebral cortex
+  venue: PLoS Comput. Biol. 5, e1000433
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: shinomoto 2009 relating neuronal firing patterns to fun
+- key: shor1997polynomial
+  authors:
+  - Shor, P. W.
+  year: 1997
+  title: Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer
+  venue: SIAM J. Comput. 26, 1484
+  kind: article
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: shor 1997 polynomial-time algorithms for prime fac
+- key: shumailov2024ai
+  authors:
+  - Shumailov, I.
+  - Shumaylov, Z.
+  - Zhao, Y.
+  - Papernot, N.
+  - Anderson, R.
+  - Gal, Y.
+  year: 2024
+  title: AI models collapse when trained on recursively generated data
+  venue: Nature 631, 755–759
+  kind: article
+  topic: irreversibility
+  cited_in:
+  - paths-not-taken
+  - opening-the-markov-blanket
+  - thirty-papers-behind-the-discussion
+  sort: shumailov 2024 ai models collapse when trained on recur
+- key: simon1997power
+  authors:
+  - Simon, D. R.
+  year: 1997
+  title: On the power of quantum computation
+  venue: SIAM J. Comput. 26, 1474
+  kind: article
+  topic: quantum
+  cited_in:
+  - interference-not-parallelism
+  sort: simon 1997 on the power of quantum computation
+- key: sipper1997phylogenetic
+  authors:
+  - Sipper, M.
+  - Sanchez, E.
+  - Mange, D.
+  - Tomassini, M.
+  - Pérez-Uribe, A.
+  - Stauffer, A.
+  year: 1997
+  title: A phylogenetic, ontogenetic, and epigenetic view of bio-inspired hardware systems
+  venue: IEEE Trans. Evolutionary Computation 1, 83–97
+  kind: article
+  topic: evolution
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  sort: sipper 1997 a phylogenetic, ontogenetic, and epigene
+- key: smith2020active
+  authors:
+  - Smith, R.
+  - Schwartenbeck, P.
+  - Parr, T.
+  - Friston, K. J.
+  year: 2020
+  title: 'An active inference approach to modeling structure learning: concept learning as an example case'
+  venue: Frontiers in Computational Neuroscience 14, 41
+  kind: article
+  topic: free-energy
+  cited_in:
+  - opening-the-markov-blanket
+  sort: smith 2020 an active inference approach to modeling
+- key: smolensky1990tensor
+  authors:
+  - Smolensky, P.
+  year: 1990
+  title: Tensor product variable binding and the representation of symbolic structures in connectionist systems
+  venue: Artificial Intelligence 46, 159–216
+  kind: article
+  topic: representations
+  cited_in:
+  - paths-not-taken
+  sort: 'smolensky 1990 tensor product variable binding and the '
+- key: softky1993highly
+  authors:
+  - Softky, W. R.
+  - Koch, C.
+  year: 1993
+  title: The highly irregular firing of cortical cells is inconsistent with temporal integration of random EPSPs
+  venue: J. Neurosci. 13, 334–350
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: 'softky 1993 the highly irregular firing of cortical '
+- key: song2005highly
+  authors:
+  - Song, S.
+  - Sjöström, P. J.
+  - Reigl, M.
+  - Nelson, S.
+  - Chklovskii, D. B.
+  year: 2005
+  title: Highly nonrandom features of synaptic connectivity in local cortical circuits
+  venue: PLoS Biology 3, e68
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: song 2005 highly nonrandom features of synaptic co
+- key: srivastava2014dropout
+  authors:
+  - Srivastava, N.
+  - Hinton, G.
+  - Krizhevsky, A.
+  - Sutskever, I.
+  - Salakhutdinov, R.
+  year: 2014
+  title: 'Dropout: a simple way to prevent neural networks from overfitting'
+  venue: JMLR 15, 1929–1958
+  kind: article
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: 'srivastava 2014 dropout: a simple way to prevent neural '
+- key: stanley2009hypercube
+  authors:
+  - Stanley, K. O.
+  - D’Ambrosio, D. B.
+  - Gauci, J.
+  year: 2009
+  title: A hypercube-based encoding for evolving large-scale neural networks
+  venue: Artificial Life 15, 185–212
+  kind: article
+  topic: evolution
+  cited_in:
+  - paths-not-taken
+  sort: 'stanley 2009 a hypercube-based encoding for evolving '
+- key: tang2019quantum
+  authors:
+  - Tang, E.
+  year: 2019
+  title: A quantum-inspired classical algorithm for recommendation systems
+  venue: STOC; arXiv:1807.04271
+  kind: inproceedings
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  - interference-not-parallelism
+  sort: tang 2019 a quantum-inspired classical algorithm f
+- key: terada2025quantum
+  authors:
+  - Terada, Y.
+  - others
+  year: 2025
+  title: Quantum-enhanced causal discovery for a small number of samples
+  venue: arXiv:2501.05007
+  kind: preprint
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  sort: 'terada 2025 quantum-enhanced causal discovery for a '
+- key: thompson1996evolved
+  authors:
+  - Thompson, A.
+  year: 1996
+  title: An evolved circuit, intrinsic in silicon, entwined with physics
+  venue: International Conference on Evolvable Systems (ICES)
+  kind: inproceedings
+  topic: evolution
+  cited_in:
+  - paths-not-taken
+  sort: thompson 1996 an evolved circuit, intrinsic in silicon
+- key: thorpe2001spike
+  authors:
+  - Thorpe, S.
+  - Delorme, A.
+  - Van Rullen, R.
+  year: 2001
+  title: Spike-based strategies for rapid processing
+  venue: Neural Networks 14, 715–725
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: thorpe 2001 spike-based strategies for rapid process
+- key: tian2000probabilities
+  authors:
+  - Tian, J.
+  - Pearl, J.
+  year: 2000
+  title: 'Probabilities of causation: bounds and identification'
+  venue: Annals of Mathematics and Artificial Intelligence 28, 287–313
+  kind: article
+  topic: causation
+  cited_in:
+  - opening-the-markov-blanket
+  sort: 'tian 2000 probabilities of causation: bounds and i'
+- key: verdon2019quantum
+  authors:
+  - Verdon, G.
+  - others
+  year: 2019
+  title: Quantum Hamiltonian-based models and the variational quantum thermalizer algorithm
+  venue: arXiv:1910.02071
+  kind: preprint
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  sort: verdon 2019 quantum hamiltonian-based models and the
+- key: devries2025expected
+  authors:
+  - de Vries, B.
+  - others
+  year: 2025
+  title: Expected free energy-based planning as variational inference
+  venue: arXiv:2504.14898
+  kind: preprint
+  topic: free-energy
+  cited_in:
+  - qubits-for-causal-compression
+  sort: vries 2025 expected free energy-based planning as v
+- key: waddington1953genetic
+  authors:
+  - Waddington, C. H.
+  year: 1953
+  title: Genetic assimilation of an acquired character
+  venue: Evolution 7, 118–126
+  kind: article
+  topic: evolution
+  cited_in:
+  - copies-lineages-and-noise
+  sort: waddington 1953 genetic assimilation of an acquired char
+- key: wagner2008robustness
+  authors:
+  - Wagner, A.
+  year: 2008
+  title: 'Robustness and evolvability: a paradox resolved'
+  venue: Proc. R. Soc. B 275, 91–100
+  kind: article
+  topic: evolution
+  cited_in:
+  - copies-lineages-and-noise
+  sort: 'wagner 2008 robustness and evolvability: a paradox r'
+- key: wang2025beyond
+  authors:
+  - Wang, S.
+  - others
+  year: 2025
+  title: 'Beyond the 80/20 rule: high-entropy minority tokens drive effective reinforcement learning for LLM reasoning'
+  venue: NeurIPS (arXiv:2506.01939)
+  kind: inproceedings
+  topic: curiosity
+  cited_in:
+  - paths-not-taken
+  - opening-the-markov-blanket
+  - thirty-papers-behind-the-discussion
+  sort: 'wang 2025 beyond the 80/20 rule: high-entropy mino'
+- key: wang2025quantum
+  authors:
+  - Wang, B.
+  - Meng, Z.
+  - Zhao, Y.
+  - Yang, Y.
+  year: 2025
+  title: Quantum lattice Boltzmann method for simulating nonlinear fluid dynamics
+  venue: arXiv:2502.16568
+  kind: preprint
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  sort: wang 2025 quantum lattice boltzmann method for sim
+- key: watson2016can
+  authors:
+  - Watson, R. A.
+  - Szathmáry, E.
+  year: 2016
+  title: How can evolution learn?
+  venue: Trends Ecol. Evol. 31, 147–157
+  kind: article
+  topic: evolution
+  cited_in:
+  - copies-lineages-and-noise
+  sort: watson 2016 how can evolution learn?
+- key: whittington2022relating
+  authors:
+  - Whittington, J. C. R.
+  - Warren, J.
+  - Behrens, T. E. J.
+  year: 2022
+  title: Relating transformers to models and neural representations of the hippocampal formation
+  venue: ICLR
+  kind: inproceedings
+  topic: representations
+  cited_in:
+  - paths-not-taken
+  - thirty-papers-behind-the-discussion
+  sort: whittington 2022 relating transformers to models and neur
+- key: williams1992simple
+  authors:
+  - Williams, R. J.
+  year: 1992
+  title: Simple statistical gradient-following algorithms for connectionist reinforcement learning
+  venue: Machine Learning 8, 229–256
+  kind: article
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: williams 1992 simple statistical gradient-following al
+- key: wolfram2002new
+  authors:
+  - Wolfram, S.
+  year: 2002
+  title: A New Kind of Science
+  venue: Wolfram Media
+  kind: book
+  topic: programs
+  cited_in:
+  - opening-the-markov-blanket
+  sort: wolfram 2002 a new kind of science
+- key: wortsman2022model
+  authors:
+  - Wortsman, M.
+  - others
+  year: 2022
+  title: 'Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time'
+  venue: ICML
+  kind: inproceedings
+  topic: learning
+  cited_in:
+  - copies-lineages-and-noise
+  sort: 'wortsman 2022 model soups: averaging weights of multip'
+- key: xia2021causal
+  authors:
+  - Xia, K.
+  - Lee, K.-Z.
+  - Bengio, Y.
+  - Bareinboim, E.
+  year: 2021
+  title: 'The causal-neural connection: expressiveness, learnability, and inference'
+  venue: NeurIPS
+  kind: inproceedings
+  topic: causation
+  cited_in:
+  - post-pearl
+  sort: 'xia 2021 the causal-neural connection: expressive'
+- key: zador2019critique
+  authors:
+  - Zador, A. M.
+  year: 2019
+  title: A critique of pure learning and what artificial neural networks can learn from animal brains
+  venue: Nature Communications 10, 3770
+  kind: article
+  topic: evolution
+  cited_in:
+  - paths-not-taken
+  - copies-lineages-and-noise
+  - thirty-papers-behind-the-discussion
+  sort: zador 2019 a critique of pure learning and what art
+- key: zardini2022reconstructing
+  authors:
+  - Zardini, E.
+  - others
+  year: 2022
+  title: Reconstructing Bayesian networks on a quantum annealer
+  venue: Quantum Inf. Comput. 22, 1320
+  kind: article
+  topic: quantum
+  cited_in:
+  - qubits-for-causal-compression
+  sort: zardini 2022 reconstructing bayesian networks on a qu
+- key: zelikman2022star
+  authors:
+  - Zelikman, E.
+  - Wu, Y.
+  - Mu, J.
+  - Goodman, N.
+  year: 2022
+  title: 'STaR: Bootstrapping reasoning with reasoning'
+  venue: NeurIPS
+  kind: inproceedings
+  topic: interpretability
+  cited_in:
+  - copies-lineages-and-noise
+  sort: 'zelikman 2022 star: bootstrapping reasoning with reaso'
+- key: zhang2018tropical
+  authors:
+  - Zhang, L.
+  - Naitzat, G.
+  - Lim, L.-H.
+  year: 2018
+  title: Tropical geometry of deep neural networks
+  venue: ICML
+  kind: inproceedings
+  topic: mathematics
+  cited_in:
+  - paths-not-taken
+  sort: zhang 2018 tropical geometry of deep neural network
+- key: zheng2018dags
+  authors:
+  - Zheng, X.
+  - Aragam, B.
+  - Ravikumar, P.
+  - Xing, E. P.
+  year: 2018
+  title: 'DAGs with NO TEARS: continuous optimization for structure learning'
+  venue: NeurIPS
+  kind: inproceedings
+  topic: causation
+  cited_in:
+  - opening-the-markov-blanket
+  sort: 'zheng 2018 dags with no tears: continuous optimizat'
+- key: ziv2013long
+  authors:
+  - Ziv, Y.
+  - others
+  year: 2013
+  title: Long-term dynamics of CA1 hippocampal place codes
+  venue: Nature Neuroscience 16, 264–266
+  kind: article
+  topic: brains
+  cited_in:
+  - copies-lineages-and-noise
+  sort: ziv 2013 long-term dynamics of ca1 hippocampal pl

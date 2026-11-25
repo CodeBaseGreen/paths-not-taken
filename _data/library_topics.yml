@@ -1,0 +1,42 @@
+- id: causation
+  name: Causation and counterfactuals
+  blurb: The ladder of causation, its limits, and how results move between settings.
+- id: abstraction
+  name: Causal abstraction and coarse concepts
+  blurb: When a coarse description is faithful to what happens underneath.
+- id: free-energy
+  name: Free energy and active inference
+  blurb: Friston's framework and its critics.
+- id: curiosity
+  name: Curiosity, compression and exploration
+  blurb: Learning driven by progress, novelty and return.
+- id: programs
+  name: Programs and program synthesis
+  blurb: Programs as models, libraries of reusable parts, and reasoning about code.
+- id: simulation
+  name: Simulation, sampling and experiment design
+  blurb: Replaying simulators, fixed scenarios, and choosing informative experiments.
+- id: irreversibility
+  name: Irreversibility, reuse and evaluation
+  blurb: What can and can't be undone, and what goes wrong when evaluators are reused.
+- id: representations
+  name: Sparse codes, hypervectors and binding
+  blurb: Distributed representations in brains and machines.
+- id: interpretability
+  name: Inside language models
+  blurb: Features, circuits and training of large language models.
+- id: brains
+  name: Brains, noise and neural computation
+  blurb: Variability, memory and energy in real neurons.
+- id: evolution
+  name: Evolution, development and modularity
+  blurb: Selection, lineages, growth and the pressure to reuse.
+- id: learning
+  name: Learning algorithms, precision and hardware
+  blurb: Gradients, evolution strategies, model merging, low precision and energy.
+- id: mathematics
+  name: Category theory, sheaves and geometry
+  blurb: Mathematical tools beyond probability.
+- id: quantum
+  name: Quantum computation
+  blurb: Background for the two quantum working papers.
